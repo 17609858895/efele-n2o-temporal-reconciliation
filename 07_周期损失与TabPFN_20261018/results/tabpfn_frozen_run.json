@@ -1,0 +1,56 @@
+{
+  "source_hashes": {
+    "scripts/tabpfn_experiment.py": "aa78b362199b8d1baf806e7e5c08880c03b1b58b77239e960a8d60cb1ae2a766",
+    "07_周期损失与TabPFN_20261018/protocol.md": "d74317a1c0fd3e98f633461233dc70d0e3354915569fb107861900f5170e1fd8",
+    "<TABPFN_CHECKPOINT>": "2ab5a07d5c41dfe6db9aa7ae106fc6de898326c2765be66505a07e2868c10736",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2014_cycle.csv": "b7446a168dd190d341739d76c11206cb76e42396ed1fe902a3102da0ecfd6164",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2014_daily.csv": "05e136445e5933ca5a1a080a6a797046dfeee44f63e00487d02d26267122d908",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2015_cycle.csv": "016444526d0441fd875bd7a02baaa0734799b4adf657f807aebd6005b91391cf",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2015_daily.csv": "7faf2b448691251cfe907409d3d37210596e8b29de58d419e4281b43e20703da",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2016_cycle.csv": "ca0a7d02af8f9ce2462e90110e6085116f5e6c382d5b0c872f8a5c41491d1745",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2016_daily.csv": "a3bde80c3872272f2afa9ffeb1e810733ea48be908c410b5a3e4decdc4156b84",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2017_cycle.csv": "872b7438c24222133a7ee11fb3d45d20b0f82a86a0689cfcf22067145e3d10c9",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2017_daily.csv": "2dc879be571725e1dfda341b14f36ec71e97dd10a1b8b6b6786a07088b4d9178",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2018_cycle.csv": "95899ca7654a92ca431887efd6236461c81d0c09a04bfebc867cac242c29de8a",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2018_daily.csv": "e822ab540b53c619af46642c4315bdd2f4c72c8dcf0654f3195e0efc86dc15df",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2019_cycle.csv": "3402f34c44967c1e1a52dc63df6c445dbcb2736cbaf848c1e72fe55c6261cba2",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2019_daily.csv": "58159237fa3052273ed9878554925a65523d7faff7359504979b389f29983b52",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2020_cycle.csv": "c5b5de6738be51fbbfc21dd181a31902aa85c28d06c9a1b5d4ce8a12ad588741",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2020_daily.csv": "7e68a6f940d0518c6de09259a1778d6b144936ed70ae67a4999a076376a65034",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2021_cycle.csv": "59bc65857f304f3eed7066d4d9415e1f2d5549401652ce1be313393981b3d816",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2021_daily.csv": "8a7a7445084afc3c4a673e24aa3a0037fd58124510f1206dc8e62c818e8a8579"
+  },
+  "smoke": {
+    "purpose": "synthetic technical check, no EFELE data or score",
+    "torch": "2.7.1+cu126",
+    "tabpfn": "2.1.2",
+    "python": "3.12.9",
+    "python_executable": "07_周期损失与TabPFN_20261018/.venv-tabpfn/Scripts/python.exe",
+    "device": "cuda",
+    "cuda_available": true,
+    "gpu_name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "checkpoint": "<TABPFN_CHECKPOINT>",
+    "checkpoint_sha256": "2ab5a07d5c41dfe6db9aa7ae106fc6de898326c2765be66505a07e2868c10736",
+    "seconds": 11.64079259999562,
+    "finite": true,
+    "prediction_shape": [
+      8
+    ],
+    "status": "passed"
+  },
+  "cycle_estimators": 8,
+  "daily_estimators": 4,
+  "seed": 20261018,
+  "batch_size": 256,
+  "inference_mode": "low_memory",
+  "memory_saving": true,
+  "versions": {
+    "tabpfn": "2.1.2",
+    "torch": "2.7.1+cu126",
+    "scikit-learn": "1.6.1",
+    "numpy": "1.26.4",
+    "pandas": "2.2.3"
+  },
+  "archival_original_hashes": true,
+  "provenance_note": "Original frozen-run hashes; path labels are normalized for publication. Portable copies are verified by provenance/public_manifest.json. See provenance/source_map.csv for original versus public hashes."
+}

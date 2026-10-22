@@ -1,0 +1,1202 @@
+[
+  {
+    "outer_test": 2014,
+    "model": "JointSelected",
+    "candidate": {
+      "id": "Joint10_c1",
+      "family": "Joint10",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 10
+    },
+    "inner_MSE": 21.170343767706203,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2014,
+    "model": "HuberDay",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 25.30331814737018,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2014,
+    "model": "CycleOnly",
+    "candidate": {
+      "id": "CycleOnly_c1",
+      "family": "CycleOnly",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 0,
+      "b": 1
+    },
+    "inner_MSE": 20.028645931782368,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2014,
+    "model": "RawMSE",
+    "candidate": {
+      "id": "RawMSE_c0",
+      "family": "RawMSE",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 42.71835146337304,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2014,
+    "model": "AsinhMSE",
+    "candidate": {
+      "id": "AsinhMSE_c0",
+      "family": "AsinhMSE",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 26.805350693347318,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2014,
+    "model": "Joint01",
+    "candidate": {
+      "id": "Joint01_c0",
+      "family": "Joint01",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 24.932174715762038,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2014,
+    "model": "Joint1",
+    "candidate": {
+      "id": "Joint1_c0",
+      "family": "Joint1",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 1
+    },
+    "inner_MSE": 24.347423087409684,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2014,
+    "model": "Joint10",
+    "candidate": {
+      "id": "Joint10_c1",
+      "family": "Joint10",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 10
+    },
+    "inner_MSE": 21.170343767706203,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2014,
+    "model": "HuberMatchedCapacity",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 25.30331814737018,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2014,
+    "model": "HuberBiasCorrected",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 25.30331814737018,
+    "additive_correction": 1.8245576190204194
+  },
+  {
+    "outer_test": 2015,
+    "model": "JointSelected",
+    "candidate": {
+      "id": "Joint01_c1",
+      "family": "Joint01",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 27.414271833271386,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2015,
+    "model": "HuberDay",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 25.790178200950727,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2015,
+    "model": "CycleOnly",
+    "candidate": {
+      "id": "CycleOnly_c1",
+      "family": "CycleOnly",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 0,
+      "b": 1
+    },
+    "inner_MSE": 50.03144305301157,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2015,
+    "model": "RawMSE",
+    "candidate": {
+      "id": "RawMSE_c1",
+      "family": "RawMSE",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 18.212794942523082,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2015,
+    "model": "AsinhMSE",
+    "candidate": {
+      "id": "AsinhMSE_c1",
+      "family": "AsinhMSE",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 28.553616543142248,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2015,
+    "model": "Joint01",
+    "candidate": {
+      "id": "Joint01_c1",
+      "family": "Joint01",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 27.414271833271386,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2015,
+    "model": "Joint1",
+    "candidate": {
+      "id": "Joint1_c1",
+      "family": "Joint1",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 1
+    },
+    "inner_MSE": 31.732372785336754,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2015,
+    "model": "Joint10",
+    "candidate": {
+      "id": "Joint10_c0",
+      "family": "Joint10",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 10
+    },
+    "inner_MSE": 47.6364579651318,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2015,
+    "model": "HuberMatchedCapacity",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 25.790178200950727,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2015,
+    "model": "HuberBiasCorrected",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 25.790178200950727,
+    "additive_correction": 2.5295074476345385
+  },
+  {
+    "outer_test": 2016,
+    "model": "JointSelected",
+    "candidate": {
+      "id": "Joint01_c1",
+      "family": "Joint01",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 31.011996362299804,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2016,
+    "model": "HuberDay",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 29.951204984854975,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2016,
+    "model": "CycleOnly",
+    "candidate": {
+      "id": "CycleOnly_c0",
+      "family": "CycleOnly",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 0,
+      "b": 1
+    },
+    "inner_MSE": 32.97139366163673,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2016,
+    "model": "RawMSE",
+    "candidate": {
+      "id": "RawMSE_c1",
+      "family": "RawMSE",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 36.621680554538536,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2016,
+    "model": "AsinhMSE",
+    "candidate": {
+      "id": "AsinhMSE_c1",
+      "family": "AsinhMSE",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 30.767810967613194,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2016,
+    "model": "Joint01",
+    "candidate": {
+      "id": "Joint01_c1",
+      "family": "Joint01",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 31.011996362299804,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2016,
+    "model": "Joint1",
+    "candidate": {
+      "id": "Joint1_c0",
+      "family": "Joint1",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 1
+    },
+    "inner_MSE": 31.88690179122298,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2016,
+    "model": "Joint10",
+    "candidate": {
+      "id": "Joint10_c1",
+      "family": "Joint10",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 10
+    },
+    "inner_MSE": 32.53908076790247,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2016,
+    "model": "HuberMatchedCapacity",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 29.951204984854975,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2016,
+    "model": "HuberBiasCorrected",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 29.951204984854975,
+    "additive_correction": 2.162408061155736
+  },
+  {
+    "outer_test": 2017,
+    "model": "JointSelected",
+    "candidate": {
+      "id": "Joint01_c0",
+      "family": "Joint01",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 13.769695240372887,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2017,
+    "model": "HuberDay",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 17.73553056878675,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2017,
+    "model": "CycleOnly",
+    "candidate": {
+      "id": "CycleOnly_c0",
+      "family": "CycleOnly",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 0,
+      "b": 1
+    },
+    "inner_MSE": 47.1006145888663,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2017,
+    "model": "RawMSE",
+    "candidate": {
+      "id": "RawMSE_c0",
+      "family": "RawMSE",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 24.692527381525025,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2017,
+    "model": "AsinhMSE",
+    "candidate": {
+      "id": "AsinhMSE_c1",
+      "family": "AsinhMSE",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 19.86016417052698,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2017,
+    "model": "Joint01",
+    "candidate": {
+      "id": "Joint01_c0",
+      "family": "Joint01",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 13.769695240372887,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2017,
+    "model": "Joint1",
+    "candidate": {
+      "id": "Joint1_c1",
+      "family": "Joint1",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 1
+    },
+    "inner_MSE": 27.450113210376088,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2017,
+    "model": "Joint10",
+    "candidate": {
+      "id": "Joint10_c1",
+      "family": "Joint10",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 10
+    },
+    "inner_MSE": 44.11263341413759,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2017,
+    "model": "HuberMatchedCapacity",
+    "candidate": {
+      "id": "HuberDay_c0",
+      "family": "HuberDay",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 24.3283878870059,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2017,
+    "model": "HuberBiasCorrected",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 17.73553056878675,
+    "additive_correction": 1.8557433656909421
+  },
+  {
+    "outer_test": 2018,
+    "model": "JointSelected",
+    "candidate": {
+      "id": "Joint01_c1",
+      "family": "Joint01",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 20.376503355551538,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2018,
+    "model": "HuberDay",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 26.85011334088344,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2018,
+    "model": "CycleOnly",
+    "candidate": {
+      "id": "CycleOnly_c1",
+      "family": "CycleOnly",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 0,
+      "b": 1
+    },
+    "inner_MSE": 52.77744536173541,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2018,
+    "model": "RawMSE",
+    "candidate": {
+      "id": "RawMSE_c1",
+      "family": "RawMSE",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 22.363964964423936,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2018,
+    "model": "AsinhMSE",
+    "candidate": {
+      "id": "AsinhMSE_c1",
+      "family": "AsinhMSE",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 24.719640465722712,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2018,
+    "model": "Joint01",
+    "candidate": {
+      "id": "Joint01_c1",
+      "family": "Joint01",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 20.376503355551538,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2018,
+    "model": "Joint1",
+    "candidate": {
+      "id": "Joint1_c1",
+      "family": "Joint1",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 1
+    },
+    "inner_MSE": 31.77214069169549,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2018,
+    "model": "Joint10",
+    "candidate": {
+      "id": "Joint10_c1",
+      "family": "Joint10",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 10
+    },
+    "inner_MSE": 48.156357059055956,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2018,
+    "model": "HuberMatchedCapacity",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 26.85011334088344,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2018,
+    "model": "HuberBiasCorrected",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 26.85011334088344,
+    "additive_correction": 2.060333708221557
+  },
+  {
+    "outer_test": 2019,
+    "model": "JointSelected",
+    "candidate": {
+      "id": "Joint01_c0",
+      "family": "Joint01",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 19.948526321964888,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2019,
+    "model": "HuberDay",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 26.54836619364489,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2019,
+    "model": "CycleOnly",
+    "candidate": {
+      "id": "CycleOnly_c1",
+      "family": "CycleOnly",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 0,
+      "b": 1
+    },
+    "inner_MSE": 39.01226452211806,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2019,
+    "model": "RawMSE",
+    "candidate": {
+      "id": "RawMSE_c0",
+      "family": "RawMSE",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 20.434950035508024,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2019,
+    "model": "AsinhMSE",
+    "candidate": {
+      "id": "AsinhMSE_c1",
+      "family": "AsinhMSE",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 24.829816982282047,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2019,
+    "model": "Joint01",
+    "candidate": {
+      "id": "Joint01_c0",
+      "family": "Joint01",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 19.948526321964888,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2019,
+    "model": "Joint1",
+    "candidate": {
+      "id": "Joint1_c1",
+      "family": "Joint1",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 1
+    },
+    "inner_MSE": 30.806963736587655,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2019,
+    "model": "Joint10",
+    "candidate": {
+      "id": "Joint10_c1",
+      "family": "Joint10",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 10
+    },
+    "inner_MSE": 38.568868891416045,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2019,
+    "model": "HuberMatchedCapacity",
+    "candidate": {
+      "id": "HuberDay_c0",
+      "family": "HuberDay",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 31.881298896926296,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2019,
+    "model": "HuberBiasCorrected",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 26.54836619364489,
+    "additive_correction": 2.397717406389009
+  },
+  {
+    "outer_test": 2020,
+    "model": "JointSelected",
+    "candidate": {
+      "id": "Joint01_c1",
+      "family": "Joint01",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 13.981190304057659,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2020,
+    "model": "HuberDay",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 15.804296621541893,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2020,
+    "model": "CycleOnly",
+    "candidate": {
+      "id": "CycleOnly_c0",
+      "family": "CycleOnly",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 0,
+      "b": 1
+    },
+    "inner_MSE": 27.201460491364838,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2020,
+    "model": "RawMSE",
+    "candidate": {
+      "id": "RawMSE_c0",
+      "family": "RawMSE",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 31.999085562583918,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2020,
+    "model": "AsinhMSE",
+    "candidate": {
+      "id": "AsinhMSE_c1",
+      "family": "AsinhMSE",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 14.599960822762782,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2020,
+    "model": "Joint01",
+    "candidate": {
+      "id": "Joint01_c1",
+      "family": "Joint01",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 13.981190304057659,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2020,
+    "model": "Joint1",
+    "candidate": {
+      "id": "Joint1_c1",
+      "family": "Joint1",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 1
+    },
+    "inner_MSE": 20.937278891456646,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2020,
+    "model": "Joint10",
+    "candidate": {
+      "id": "Joint10_c0",
+      "family": "Joint10",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 10
+    },
+    "inner_MSE": 29.80434368557065,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2020,
+    "model": "HuberMatchedCapacity",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 15.804296621541893,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2020,
+    "model": "HuberBiasCorrected",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 15.804296621541893,
+    "additive_correction": 1.6963453163799074
+  },
+  {
+    "outer_test": 2021,
+    "model": "JointSelected",
+    "candidate": {
+      "id": "Joint01_c0",
+      "family": "Joint01",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 14.837448779739896,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2021,
+    "model": "HuberDay",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 19.782242055413203,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2021,
+    "model": "CycleOnly",
+    "candidate": {
+      "id": "CycleOnly_c0",
+      "family": "CycleOnly",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 0,
+      "b": 1
+    },
+    "inner_MSE": 44.57771000232315,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2021,
+    "model": "RawMSE",
+    "candidate": {
+      "id": "RawMSE_c0",
+      "family": "RawMSE",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 15.087418322048498,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2021,
+    "model": "AsinhMSE",
+    "candidate": {
+      "id": "AsinhMSE_c1",
+      "family": "AsinhMSE",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": null,
+      "b": null
+    },
+    "inner_MSE": 23.75793090108453,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2021,
+    "model": "Joint01",
+    "candidate": {
+      "id": "Joint01_c0",
+      "family": "Joint01",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 0.1
+    },
+    "inner_MSE": 14.837448779739896,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2021,
+    "model": "Joint1",
+    "candidate": {
+      "id": "Joint1_c1",
+      "family": "Joint1",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 1
+    },
+    "inner_MSE": 21.487776432866507,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2021,
+    "model": "Joint10",
+    "candidate": {
+      "id": "Joint10_c1",
+      "family": "Joint10",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 10
+    },
+    "inner_MSE": 41.44580420048613,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2021,
+    "model": "HuberMatchedCapacity",
+    "candidate": {
+      "id": "HuberDay_c0",
+      "family": "HuberDay",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 23.399334985651404,
+    "additive_correction": 0.0
+  },
+  {
+    "outer_test": 2021,
+    "model": "HuberBiasCorrected",
+    "candidate": {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    "inner_MSE": 19.782242055413203,
+    "additive_correction": 2.095313591489425
+  }
+]

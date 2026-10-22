@@ -1,0 +1,137 @@
+{
+  "status": "passed",
+  "source_hash_checks": [
+    {
+      "file": "scripts/joint_cycle_training.py",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/protocol.md",
+      "match": true
+    },
+    {
+      "file": "scripts/pilot_memory_n2o.py",
+      "match": true
+    },
+    {
+      "file": "scripts/cycle_target_pilot.py",
+      "match": true
+    },
+    {
+      "file": "03_首轮实测_20261018/all_heldout_predictions.csv",
+      "match": true
+    },
+    {
+      "file": "00_原始数据/EJPSoil-WP4 - N2O Flux Database/Field data - SOERE-PRO EFELE/EFELE_DailyMetData_2013-2021.csv",
+      "match": true
+    },
+    {
+      "file": "00_原始数据/EJPSoil-WP4 - N2O Flux Database/Field data - SOERE-PRO EFELE/EFELE_DailyN2Ofluxes_2013-2021.csv",
+      "match": true
+    },
+    {
+      "file": "00_原始数据/EJPSoil-WP4 - N2O Flux Database/Field data - SOERE-PRO EFELE/EFELE_SoilCropManagement_2013-2021.xls",
+      "match": true
+    },
+    {
+      "file": "scripts/tabpfn_experiment.py",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/protocol.md",
+      "match": true
+    },
+    {
+      "file": "<TABPFN_CHECKPOINT>",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2014_cycle.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2014_daily.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2015_cycle.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2015_daily.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2016_cycle.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2016_daily.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2017_cycle.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2017_daily.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2018_cycle.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2018_daily.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2019_cycle.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2019_daily.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2020_cycle.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2020_daily.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2021_cycle.csv",
+      "match": true
+    },
+    {
+      "file": "07_周期损失与TabPFN_20261018/fold_data/outer_2021_daily.csv",
+      "match": true
+    }
+  ],
+  "models": 14,
+  "daily_models": 13,
+  "observations": 3319,
+  "cycle_units": 16,
+  "independent_clusters": 8,
+  "successful_custom_training_fits": 360,
+  "main_tree_fits": 504,
+  "logged_partial_fits_before_technical_restart": {
+    "technical_logging_retry": 196,
+    "technical_unicode_retry": 392
+  },
+  "extra_short_checks": 3,
+  "note": "Technical failures also included an outer fit whose C++ serialization failed and possibly an incomplete subset before interruption; these did not add candidates or outer-score selection.",
+  "tabpfn_fits": 24,
+  "bootstrap_compositions": 6435,
+  "tests": [
+    "prediction-target support alignment",
+    "daily-to-cycle aggregation identity",
+    "R2 independent formula",
+    "original baseline recovered",
+    "frozen sources unchanged",
+    "all custom objectives decreased",
+    "nonfinite predictions absent"
+  ]
+}

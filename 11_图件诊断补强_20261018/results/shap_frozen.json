@@ -1,0 +1,19 @@
+{
+  "created": "2026-10-18T13:55:44",
+  "lightgbm": "4.6.0",
+  "source_hashes": {
+    "scripts/extract_tree_attributions.py": "b3fd6595a32a597bd158967e6c0a7f64cf73526628e1ccfdc0f720723057b41c",
+    "<LOCAL_RUNTIME>/shap_protocol.md": "c8686a6622605df4d07614c826c61f4ef46eecc0e22f3831fd605aa26c0dca26",
+    "08_形状水平解耦与施肥约束_20261018/results/lgb_selection_log.json": "77e39afb647cab50e52176fb854b7cb51d3f293952cf0b4bd63a7bc6a3cf4f81",
+    "<LOCAL_RUNTIME>/2014_LightGBM.txt": "d851ad36906dd0024bfa2ac4df157c553b75800b479811622c398b8f3d5dd2f1",
+    "<LOCAL_RUNTIME>/2015_LightGBM.txt": "e68d2d8522a86751ecf3d52c9df5484e40a723ef7e3911cc008fd0fa2e8a5698",
+    "<LOCAL_RUNTIME>/2016_LightGBM.txt": "c730a381bdd98b4febaae63fa6d09daffaaead309a0dc4cb0e7dc2f9a76e6a68",
+    "<LOCAL_RUNTIME>/2017_LightGBM.txt": "4e2b0b7122b2a0b67772b659dec1964d6035de912bb266f0c0d09352d93c6219",
+    "<LOCAL_RUNTIME>/2018_LightGBM.txt": "71da8855be4545bf19bc23b214c4d683e347f24b3d84419ba7683ccd9ee7f1aa",
+    "<LOCAL_RUNTIME>/2019_LightGBM.txt": "3d04a1dffb4b72fad139f473e4d422616b3c99c7f449e205586a497264745e89",
+    "<LOCAL_RUNTIME>/2020_LightGBM.txt": "c0099c534da62fc3c9618afd894010cc09ddef7e7852dfdce1ce2db88afa32c3",
+    "<LOCAL_RUNTIME>/2021_LightGBM.txt": "1d051f455d78196bdd91dce740c8b7d6e438b1f92b682cce0f12b6bf7bdae304"
+  },
+  "archival_original_hashes": true,
+  "provenance_note": "Original frozen-run hashes; path labels are normalized for publication. Portable copies are verified by provenance/public_manifest.json. See provenance/source_map.csv for original versus public hashes."
+}

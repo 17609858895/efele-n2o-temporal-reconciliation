@@ -1,0 +1,203 @@
+{
+  "source_hashes": {
+    "scripts/joint_cycle_training.py": "140794db09b0e8316ef634939492a56c0d6c9bf25b3789e955c0d5f815cd07c8",
+    "07_周期损失与TabPFN_20261018/protocol.md": "d74317a1c0fd3e98f633461233dc70d0e3354915569fb107861900f5170e1fd8",
+    "scripts/pilot_memory_n2o.py": "3dcc5e630cf35e386685f76d2be621ee22c295b5ca4165f0fd6d3406ddd1d880",
+    "scripts/cycle_target_pilot.py": "1cfa8fb1565b2d868482b83a62b7c1a7adafbb45e07f0f297918ec58d4391b54",
+    "03_首轮实测_20261018/all_heldout_predictions.csv": "11485ec2666c047df72edab55801fd5c0e4b7380d1eabccf0e68bc6a5d6b3353",
+    "00_原始数据/EJPSoil-WP4 - N2O Flux Database/Field data - SOERE-PRO EFELE/EFELE_DailyMetData_2013-2021.csv": "59acf5c014e80d3b9ebfe111972458a77d62add234ebb981d82c49d29f3f3769",
+    "00_原始数据/EJPSoil-WP4 - N2O Flux Database/Field data - SOERE-PRO EFELE/EFELE_DailyN2Ofluxes_2013-2021.csv": "881d9c028a96ddb54b029234a43e274173bf4087c31c71b4cff6f61eebde61ab",
+    "00_原始数据/EJPSoil-WP4 - N2O Flux Database/Field data - SOERE-PRO EFELE/EFELE_SoilCropManagement_2013-2021.xls": "12db3b35aa5faf1093c2adb23321cbfa91cf8d88a80ec7ea3901dae84879b46a"
+  },
+  "candidates": [
+    {
+      "id": "HuberDay_c0",
+      "family": "HuberDay",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": "Joint01_c0",
+      "family": "Joint01",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 0.1
+    },
+    {
+      "id": "Joint1_c0",
+      "family": "Joint1",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 1
+    },
+    {
+      "id": "Joint10_c0",
+      "family": "Joint10",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 1,
+      "b": 10
+    },
+    {
+      "id": "CycleOnly_c0",
+      "family": "CycleOnly",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": "RawMSE_c0",
+      "family": "RawMSE",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": null,
+      "b": null
+    },
+    {
+      "id": "AsinhMSE_c0",
+      "family": "AsinhMSE",
+      "cap": 0,
+      "leaves": 7,
+      "trees": 200,
+      "a": null,
+      "b": null
+    },
+    {
+      "id": "HuberDay_c1",
+      "family": "HuberDay",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0
+    },
+    {
+      "id": "Joint01_c1",
+      "family": "Joint01",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 0.1
+    },
+    {
+      "id": "Joint1_c1",
+      "family": "Joint1",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 1
+    },
+    {
+      "id": "Joint10_c1",
+      "family": "Joint10",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 1,
+      "b": 10
+    },
+    {
+      "id": "CycleOnly_c1",
+      "family": "CycleOnly",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": 0,
+      "b": 1
+    },
+    {
+      "id": "RawMSE_c1",
+      "family": "RawMSE",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": null,
+      "b": null
+    },
+    {
+      "id": "AsinhMSE_c1",
+      "family": "AsinhMSE",
+      "cap": 1,
+      "leaves": 15,
+      "trees": 300,
+      "a": null,
+      "b": null
+    }
+  ],
+  "seed": 20261018,
+  "lightgbm": "4.6.0",
+  "features": [
+    "Ta_min",
+    "Ta_max",
+    "Rh_min",
+    "Rh_max",
+    "WS_mean",
+    "Rg_sum",
+    "Rainfall_sum",
+    "doy_sin",
+    "doy_cos",
+    "rain_3",
+    "rain_7",
+    "rain_14",
+    "rain_30",
+    "rain_60",
+    "rain_90",
+    "temp_3",
+    "temp_7",
+    "temp_30",
+    "T",
+    "W",
+    "is_PS",
+    "crop_WHEAT",
+    "crop_MAIZE",
+    "crop_MUSTARD",
+    "crop_age",
+    "tillage_14",
+    "DSFA",
+    "last_Ndose",
+    "Imin",
+    "Iorg",
+    "Imin_sum7",
+    "Imin_sum30",
+    "Imin_sum60",
+    "Imin_exp7",
+    "Imin_exp30",
+    "Imin_exp60",
+    "Iorg_sum7",
+    "Iorg_sum30",
+    "Iorg_sum60",
+    "Iorg_exp7",
+    "Iorg_exp30",
+    "Iorg_exp60"
+  ],
+  "cycle_features": [
+    "is_PS",
+    "main_maize",
+    "calendar_days",
+    "Imin_total",
+    "Iorg_total",
+    "rain_total",
+    "T_mean",
+    "W_mean",
+    "wet_fraction",
+    "Nmin30_mean",
+    "Norg60_mean",
+    "crop_age_mean"
+  ],
+  "start_time": "2026-10-18T11:52:55",
+  "archival_original_hashes": true,
+  "provenance_note": "Original frozen-run hashes; path labels are normalized for publication. Portable copies are verified by provenance/public_manifest.json. See provenance/source_map.csv for original versus public hashes."
+}

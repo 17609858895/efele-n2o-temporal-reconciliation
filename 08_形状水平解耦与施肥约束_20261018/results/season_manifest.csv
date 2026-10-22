@@ -1,0 +1,11 @@
+﻿season,main_crop,start,end,days,warmup_days,PS_valid,AN_valid,included,status,boundary
+2013,wheat,2013-01-01,2013-09-05,248,0,104,104,False,left_truncated,Next main-crop sowing or cover sowing associated with following maize; dates from management Table 4
+2014,maize,2013-09-06,2014-10-22,412,180,311,306,True,eligible,Next main-crop sowing or cover sowing associated with following maize; dates from management Table 4
+2015,wheat,2014-10-23,2015-09-08,321,180,234,230,True,eligible,Next main-crop sowing or cover sowing associated with following maize; dates from management Table 4
+2016,maize,2015-09-09,2016-10-25,413,180,224,236,True,eligible,Next main-crop sowing or cover sowing associated with following maize; dates from management Table 4
+2017,wheat,2016-10-26,2017-09-11,321,180,136,139,True,eligible,Next main-crop sowing or cover sowing associated with following maize; dates from management Table 4
+2018,maize,2017-09-12,2018-10-29,413,180,199,195,True,eligible,Next main-crop sowing or cover sowing associated with following maize; dates from management Table 4
+2019,wheat,2018-10-30,2019-09-05,311,180,147,151,True,eligible,Next main-crop sowing or cover sowing associated with following maize; dates from management Table 4
+2020,maize,2019-09-06,2020-09-21,382,180,256,255,True,eligible,Next main-crop sowing or cover sowing associated with following maize; dates from management Table 4
+2021,maize,2020-09-22,2021-11-07,412,180,157,143,True,eligible,Next main-crop sowing or cover sowing associated with following maize; dates from management Table 4
+2022,wheat,2021-11-08,2022-02-01,86,180,38,39,False,right_truncated,Next main-crop sowing or cover sowing associated with following maize; dates from management Table 4

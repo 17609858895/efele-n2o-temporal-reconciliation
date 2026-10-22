@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-22",
+  "scope": "Public-copy packaging verification; original manuscript and analysis files unchanged",
+  "metric_reproduction": {
+    "passed": true,
+    "models": 18,
+    "maximum_absolute_metric_difference": 0.0,
+    "paired_intervals_match": true,
+    "core_metrics": {
+      "OriginalLightGBM": {
+        "R2_daily": 0.2777018390485084,
+        "R2_cycle": 0.7634799697989234,
+        "continuous_window_WAPE": 0.5678769031335462
+      },
+      "TabPFN_DailyRaw": {
+        "R2_daily": 0.3320908181064949,
+        "R2_cycle": 0.6304578057523023,
+        "continuous_window_WAPE": 0.6177559356334859
+      },
+      "MeanReconciled": {
+        "R2_daily": 0.34157391782923485,
+        "R2_cycle": 0.7634799697989234,
+        "continuous_window_WAPE": 0.5655675455989063
+      },
+      "AffineReconciled": {
+        "R2_daily": 0.345406380550505,
+        "R2_cycle": 0.8107190381414101,
+        "continuous_window_WAPE": 0.5919483242659667
+      },
+      "DecoupledPulse": {
+        "R2_daily": 0.3425271071163738,
+        "R2_cycle": 0.805617015468678,
+        "continuous_window_WAPE": 0.5949882104299943
+      }
+    },
+    "scope": "Recomputation conditional on frozen predictions; no model training"
+  },
+  "python_syntax": {
+    "passed": true,
+    "files": 27
+  },
+  "figure_execution": {
+    "passed": true,
+    "preview_builders": 12,
+    "previews": [
+      {
+        "file": "Fig1_framework_preview.png",
+        "sha256": "6f344fc68844332c29c519f347e8c5893d1a0ce676b81636e02e318d12b02237"
+      },
+      {
+        "file": "Fig2_daily_trajectories_preview.png",
+        "sha256": "ed9995f16b86eeac6467435e48779612f5696554fb005d400eb5875bc7a2b6d1"
+      },
+      {
+        "file": "Fig3_scales_and_errors_preview.png",
+        "sha256": "250c7a74ce705c2d4998cc8f9b413af79a51782ea3240bfec8708d9d37ddc986"
+      },
+      {
+        "file": "Fig4_model_comparison_preview.png",
+        "sha256": "cbad247171f8c838682caea75d5c44c24800cdc4494b5b20f670bf9b9754af74"
+      },
+      {
+        "file": "Fig5_ablation_and_windows_preview.png",
+        "sha256": "046943316e275da5afb87bbe0af0ae331844bf1aebe043921afbbad3d94a0db2"
+      },
+      {
+        "file": "Fig6_driver_reliance_preview.png",
+        "sha256": "119e53187af8d4ef61db00ce96cb4ca95ba2694f0b18d7e97468fe91fb48e9ac"
+      },
+      {
+        "file": "FigS1_observation_support_preview.png",
+        "sha256": "90dc45f53f5f74485e400aa38e08911deadd675dab831059d0ff7bc2b122a31c"
+      },
+      {
+        "file": "FigS2_loss_and_shrinkage_preview.png",
+        "sha256": "2496e997d1c69dbba353d3578a99cbf74f3ebd901ec1277f2b8d4e8e5e42db0c"
+      },
+      {
+        "file": "FigS3_pulse_response_preview.png",
+        "sha256": "200243f003c98a9b934571ef5b73d427131f1c2285a1cff630115f238b88dfa2"
+      },
+      {
+        "file": "FigS4_observed_windows_preview.png",
+        "sha256": "0f0224abd9c3f86577c84219a0775d493df88fd7c92864293fcef0acd512acbc"
+      },
+      {
+        "file": "FigS5_local_soil_responses_preview.png",
+        "sha256": "fc14c0b3333e9ac32a6f0ad0275ef0c4f13725e4e4b031e7d67d1649c582e811"
+      },
+      {
+        "file": "FigS6_tree_attributions_preview.png",
+        "sha256": "4d62f2b26c14f9fb7ff02008ed3dbaaf4e1f0848047e313b0740ccf101cd118b"
+      }
+    ],
+    "visual_review": "Combined Fig3 six-panel preview opened and checked for labels, legends and clipping"
+  },
+  "privacy_scan": {
+    "passed": true,
+    "local_runtime_or_token_patterns_found": [],
+    "excluded_artifacts_found": []
+  },
+  "dependencies": {
+    "main_requirements_shap_free": true,
+    "optional_interpretation": "SHAP 0.46.0 and Numba 0.60.0 runtime metadata accept NumPy 1.26.4",
+    "official_sources": [
+      "https://github.com/shap/shap/blob/v0.46.0/pyproject.toml",
+      "https://github.com/numba/numba/blob/0.60.0/setup.py"
+    ],
+    "clean_install_test": false,
+    "pip_dry_run": "Unavailable: host DNS could not resolve the package index"
+  },
+  "full_training": {
+    "executed_during_packaging": false,
+    "requires": "Separate CUDA TabPFN environment and licensed v2 checkpoint",
+    "fresh_R11_tables_directory_created": true
+  }
+}

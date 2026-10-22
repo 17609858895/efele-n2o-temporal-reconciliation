@@ -1,0 +1,106 @@
+{
+  "created": "2026-10-18T13:29:44",
+  "feature_groups": {
+    "Temperature": [
+      "Ta_min",
+      "Ta_max",
+      "temp_3",
+      "temp_7",
+      "temp_30",
+      "T"
+    ],
+    "Water": [
+      "Rainfall_sum",
+      "rain_3",
+      "rain_7",
+      "rain_14",
+      "rain_30",
+      "rain_60",
+      "rain_90",
+      "W"
+    ],
+    "Atmosphere": [
+      "Rh_min",
+      "Rh_max",
+      "WS_mean",
+      "Rg_sum"
+    ],
+    "Calendar": [
+      "doy_sin",
+      "doy_cos"
+    ],
+    "Crop": [
+      "crop_WHEAT",
+      "crop_MAIZE",
+      "crop_MUSTARD",
+      "crop_age",
+      "tillage_14"
+    ],
+    "Fertilizer": [
+      "is_PS",
+      "DSFA",
+      "last_Ndose",
+      "Imin",
+      "Iorg",
+      "Imin_sum7",
+      "Imin_sum30",
+      "Imin_sum60",
+      "Imin_exp7",
+      "Imin_exp30",
+      "Imin_exp60",
+      "Iorg_sum7",
+      "Iorg_sum30",
+      "Iorg_sum60",
+      "Iorg_exp7",
+      "Iorg_exp30",
+      "Iorg_exp60"
+    ]
+  },
+  "shifts": [
+    0.3333333333333333,
+    0.6666666666666666
+  ],
+  "temperature_increment": 1,
+  "wfps_increment": 5,
+  "seed": 20261018,
+  "source_hashes": {
+    "scripts/explain_frozen_models.py": "9a42c371682b485221bd9b3b332da86e354ffbca975ae286fbd271295fc688e5",
+    "<LOCAL_RUNTIME>/interpretation_protocol.md": "d6295afc1bb0fbb100c6de8cae2a0ca714e38d305d0b9d5619bbb7c10a7eadcf",
+    "<TABPFN_CHECKPOINT>": "2ab5a07d5c41dfe6db9aa7ae106fc6de898326c2765be66505a07e2868c10736",
+    "08_形状水平解耦与施肥约束_20261018/results/all_daily_predictions.csv": "cf17886dd018fb042e92fae15c6fc72cc64825e861ceaff5dfb3aea18cfb1f51",
+    "08_形状水平解耦与施肥约束_20261018/results/lgb_selection_log.json": "77e39afb647cab50e52176fb854b7cb51d3f293952cf0b4bd63a7bc6a3cf4f81",
+    "08_形状水平解耦与施肥约束_20261018/models/2014_AffineReconciled.json": "a92255d45a88a85fa75dfc8ef5e87d45b96a7ce7c701e6c23bf0edb913d7d0ca",
+    "08_形状水平解耦与施肥约束_20261018/models/2015_AffineReconciled.json": "22e45f7a2736602955e51c755f4cf2d5a4496294d2789707a4a7437ff4e2f6d0",
+    "08_形状水平解耦与施肥约束_20261018/models/2016_AffineReconciled.json": "b4c987b400a43f68277c3690ef418c995c548c8fe379c17e8b8261334aa8fbfe",
+    "08_形状水平解耦与施肥约束_20261018/models/2017_AffineReconciled.json": "eb4ca4440bab5f5e4806e9d0ba14aca7cbf0f29e7863a05c7811671b05dc6b13",
+    "08_形状水平解耦与施肥约束_20261018/models/2018_AffineReconciled.json": "62a9368f03b0b2856b0c181badbd1c450ffb38c311e756ffa9fbc2c346852ce8",
+    "08_形状水平解耦与施肥约束_20261018/models/2019_AffineReconciled.json": "cbaa5d112835fe481a84d5e321dab61c8206d341b70b83ac4fd2ed9015f5fb0a",
+    "08_形状水平解耦与施肥约束_20261018/models/2020_AffineReconciled.json": "1991ce089aa0928e5581969d0c7476b28e3d60eb2b66bc508e328459c72285d0",
+    "08_形状水平解耦与施肥约束_20261018/models/2021_AffineReconciled.json": "d41ac1b83b39ddf6d53b0965eac43964a35f800d22a0544b62a7011456e05dc1",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2014_daily.csv": "05e136445e5933ca5a1a080a6a797046dfeee44f63e00487d02d26267122d908",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2015_daily.csv": "7faf2b448691251cfe907409d3d37210596e8b29de58d419e4281b43e20703da",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2016_daily.csv": "a3bde80c3872272f2afa9ffeb1e810733ea48be908c410b5a3e4decdc4156b84",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2017_daily.csv": "2dc879be571725e1dfda341b14f36ec71e97dd10a1b8b6b6786a07088b4d9178",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2018_daily.csv": "e822ab540b53c619af46642c4315bdd2f4c72c8dcf0654f3195e0efc86dc15df",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2019_daily.csv": "58159237fa3052273ed9878554925a65523d7faff7359504979b389f29983b52",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2020_daily.csv": "7e68a6f940d0518c6de09259a1778d6b144936ed70ae67a4999a076376a65034",
+    "07_周期损失与TabPFN_20261018/fold_data/outer_2021_daily.csv": "8a7a7445084afc3c4a673e24aa3a0037fd58124510f1206dc8e62c818e8a8579",
+    "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2017_2018_2019_2020.csv": "6da7a3f15aba73c510466c6a85e271bebfe97184de40389b2c01276d578248ce",
+    "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2017_2018_2019_2021.csv": "b451abba4605bc7e97e8077f76ee81a86423e255bbcc9b009bbbb8c1a5518c93",
+    "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2017_2018_2020_2021.csv": "c42c9e1240f4117a248d0841c04b3b4b2cba46cded81d6e2c3d76ae56658f798",
+    "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2017_2019_2020_2021.csv": "2f3a2a6745b4857278c66bb8483ae757839b84b32a43f0657d92ba0115b9480d",
+    "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2018_2019_2020_2021.csv": "b9a6125ecd7de7b2fc7c8a73e9cf6d4e01f67d30c6abcabc51e918025f64525d",
+    "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2017_2018_2019_2020_2021.csv": "29c6bfad1649fb8960a7c498439e776324df293d64cede1d64f9e8a0318b3804",
+    "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2016_2017_2018_2019_2020_2021.csv": "b992bc48af84e7604c9d56c0454bb2d0ee3ccbf3fed55f24f846aa0a7477d054",
+    "08_形状水平解耦与施肥约束_20261018/fold_data/2015_2016_2017_2018_2019_2020_2021.csv": "84eb454dd6963fc196c65e210226f33c5e979c7b523552dd99ee2b9068140bfa"
+  },
+  "versions": {
+    "tabpfn": "2.1.2",
+    "torch": "2.7.1+cu126",
+    "lightgbm": "4.6.0",
+    "numpy": "1.26.4",
+    "pandas": "2.2.3"
+  },
+  "archival_original_hashes": true,
+  "provenance_note": "Original frozen-run hashes; path labels are normalized for publication. Portable copies are verified by provenance/public_manifest.json. See provenance/source_map.csv for original versus public hashes."
+}

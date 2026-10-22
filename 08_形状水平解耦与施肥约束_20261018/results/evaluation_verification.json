@@ -1,0 +1,195 @@
+{
+  "status": "passed",
+  "models": 18,
+  "calendar_rows_per_model": 5970,
+  "observed_rows_per_model": 3319,
+  "cycle_units_per_model": 16,
+  "bootstrap_cluster_count": 8,
+  "unique_bootstrap_count_vectors": 6435,
+  "bootstrap_ordered_samples": 16777216,
+  "main_candidate": "DecoupledPulse",
+  "primary_point_gate": true,
+  "stronger_point_gate": true,
+  "verified_sources": [
+    {
+      "path": "scripts/prepare_bases.py",
+      "sha256": "4652c2618aee5701b1110b0def3a185fdc6189112aa60e81819b1aa3ef17f92a"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/protocol.md",
+      "sha256": "af11ef16c0db0d76af2104b52ecdd949ea7ecb300e031750656b65ef31ad7575"
+    },
+    {
+      "path": "scripts/common.py",
+      "sha256": "bcb142434fb6976ac52f158515ff2710aaf376abc66ceed5c04372d1bcf0171f"
+    },
+    {
+      "path": "scripts/pilot_memory_n2o.py",
+      "sha256": "3dcc5e630cf35e386685f76d2be621ee22c295b5ca4165f0fd6d3406ddd1d880"
+    },
+    {
+      "path": "03_首轮实测_20261018/all_heldout_predictions.csv",
+      "sha256": "11485ec2666c047df72edab55801fd5c0e4b7380d1eabccf0e68bc6a5d6b3353"
+    },
+    {
+      "path": "07_周期损失与TabPFN_20261018/results/tabpfn_daily_predictions.csv",
+      "sha256": "3011d37b8e49b09239f75cb51a294b65da1c41522f17e4e35cd258028c9e3ec5"
+    },
+    {
+      "path": "00_原始数据/EJPSoil-WP4 - N2O Flux Database/Field data - SOERE-PRO EFELE/EFELE_DailyMetData_2013-2021.csv",
+      "sha256": "59acf5c014e80d3b9ebfe111972458a77d62add234ebb981d82c49d29f3f3769"
+    },
+    {
+      "path": "00_原始数据/EJPSoil-WP4 - N2O Flux Database/Field data - SOERE-PRO EFELE/EFELE_DailyN2Ofluxes_2013-2021.csv",
+      "sha256": "881d9c028a96ddb54b029234a43e274173bf4087c31c71b4cff6f61eebde61ab"
+    },
+    {
+      "path": "00_原始数据/EJPSoil-WP4 - N2O Flux Database/Field data - SOERE-PRO EFELE/EFELE_SoilCropManagement_2013-2021.xls",
+      "sha256": "12db3b35aa5faf1093c2adb23321cbfa91cf8d88a80ec7ea3901dae84879b46a"
+    },
+    {
+      "path": "scripts/fit_decoupled.py",
+      "sha256": "397133f11ddec90ae323f93842f7178aa2d22d29add0f93a5f495e2617b045b4"
+    },
+    {
+      "path": "scripts/common.py",
+      "sha256": "bcb142434fb6976ac52f158515ff2710aaf376abc66ceed5c04372d1bcf0171f"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/protocol.md",
+      "sha256": "af11ef16c0db0d76af2104b52ecdd949ea7ecb300e031750656b65ef31ad7575"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/results/base_completion.json",
+      "sha256": "e5f42111ae1338a63ac52093dc6323e9b3c6459d8889ef95108e1ac201dae3f0"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/results/tabpfn_crossfit_completion.json",
+      "sha256": "da8960348e052ed99b6da1f55b655c24a4c33d746415dfc91fc6143152f41871"
+    },
+    {
+      "path": "scripts/tabpfn_crossfit.py",
+      "sha256": "c96ec21b6ea2c119c2444ca84b28b6911b453bfa474c371c3171b5933b9dd049"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/protocol.md",
+      "sha256": "af11ef16c0db0d76af2104b52ecdd949ea7ecb300e031750656b65ef31ad7575"
+    },
+    {
+      "path": "<TABPFN_CHECKPOINT>",
+      "sha256": "2ab5a07d5c41dfe6db9aa7ae106fc6de898326c2765be66505a07e2868c10736"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2017_2018_2019.csv",
+      "sha256": "5104283b0b5ca2768d4b7e8d987c75f80c977fb77fed486d10ae40ed56a1e17b"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2017_2018_2020.csv",
+      "sha256": "3fc7dc998d5aebba89ce47553cde76ab30b7c3c7ea1f29f0bc7570e6aaf1f81b"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2017_2018_2021.csv",
+      "sha256": "48a09f6493fda10f7e3f072085762ed27730a8065124facb735e74d094fecdd7"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2017_2019_2020.csv",
+      "sha256": "67c2acbf23c4c4aade5fb57682ad7eee28b41e63225e1760ccd7a4fcf5411bf8"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2017_2019_2021.csv",
+      "sha256": "cfa248da1d5fb26974dee072ac014f73e8119bc8dd4c1becbdbc0e38a4edcbbc"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2017_2020_2021.csv",
+      "sha256": "7de0a12dc9a467f5412987ca889286192caa672b508649f53194b3fa4eb343f2"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2018_2019_2020.csv",
+      "sha256": "d366e6c0bc1798eb7106ca73ec38f6c5c0906dd32a75eb965db052dd8ffa2ad6"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2018_2019_2021.csv",
+      "sha256": "88907dfe61b4630146cc6312ac0c2e0d5da64ba01c7a8c10c3d8457aa28df6b3"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2018_2020_2021.csv",
+      "sha256": "ebbbcc690337879d9e6b2f279d8362b675049fa13be63d57bead6d95f2f5157c"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2016_2019_2020_2021.csv",
+      "sha256": "e771eb8545311308e5ed7dd141fbcfc110e8d13caf8654d1dc573e6bd37f15b9"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2017_2018_2019_2020.csv",
+      "sha256": "628e0817267692fef4c01b14def8cd218e6996bfb428efa0d27105dd176370c1"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2017_2018_2019_2021.csv",
+      "sha256": "351da895837956a2e2410a002d0578818753e94765e84741de7ea959b2c485c0"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2017_2018_2020_2021.csv",
+      "sha256": "1d760312ccf3f798804b02c4d2f5941946748ee6e6c39deaa9b5cf826f26a063"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2017_2019_2020_2021.csv",
+      "sha256": "737c8004f450ea62b05128afea0f6fc139eef3db8730b029f44770c60d3d5f59"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2015_2018_2019_2020_2021.csv",
+      "sha256": "4cd7adf5723497c2aeb0e69768715d7389ef2d98f07395ece8fef8619be1c6e1"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2016_2017_2018_2019_2020.csv",
+      "sha256": "ef774db733c78d0c68055a9eca3f231a964fdcfd7872c66c2781def0731db57c"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2016_2017_2018_2019_2021.csv",
+      "sha256": "221544a0db1274606a304ab7e495c0e38b5f9cd373f7304458f0f95a0fbfc12c"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2016_2017_2018_2020_2021.csv",
+      "sha256": "84e7fec96b43a41326c0c92c905fd2d3e7d2ca384ff64e106ce1d4200c5651d2"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2016_2017_2019_2020_2021.csv",
+      "sha256": "85d0381987cdadbe358eda391a323046a134f05e8be86f928009d5a153423607"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2016_2018_2019_2020_2021.csv",
+      "sha256": "fef2380f8cbde2b422ecc2859cd34e1dcd9141e22628e2d668d730b0694c34d1"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2014_2017_2018_2019_2020_2021.csv",
+      "sha256": "4e8649e027c705bad7e088926ea4a8f6a0d967e39b3d9968e92b6108d68134a4"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2015_2016_2017_2018_2019_2020.csv",
+      "sha256": "78b763498479e096f13c2a7953004deddde51f967c46c5c7ccc830d562075569"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2015_2016_2017_2018_2019_2021.csv",
+      "sha256": "0407d9fdcb8c8a36e8f39b7e46ae6358399b4bbc18702fefbdbdda812f0c4af2"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2015_2016_2017_2018_2020_2021.csv",
+      "sha256": "4f1db652c3888b0156b28f7f83cc8afcecfaae6137415ecb6b04c1a7528b184a"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2015_2016_2017_2019_2020_2021.csv",
+      "sha256": "33fe1018493ab340ab2f0abc5b7b50c251700caa0ad33df0f8e61309c3d39dd8"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2015_2016_2018_2019_2020_2021.csv",
+      "sha256": "7078fec3c4b1f64625d8dfcdad11230c1cf444c590ff70a7fd0a4861ae0c6d0e"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2015_2017_2018_2019_2020_2021.csv",
+      "sha256": "2a1a10f01b5380146e85fba29afee5b7f30235474d11c270e73649606819a85c"
+    },
+    {
+      "path": "08_形状水平解耦与施肥约束_20261018/fold_data/2016_2017_2018_2019_2020_2021.csv",
+      "sha256": "37a89eaa9378a897bec8cabc5979ece24c2e18d3ab870fd1d82e5eed7c303b8a"
+    }
+  ]
+}

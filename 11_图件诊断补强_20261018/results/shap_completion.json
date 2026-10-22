@@ -1,0 +1,72 @@
+{
+  "passed": true,
+  "folds": 8,
+  "features": 42,
+  "observations": 3319,
+  "checks": [
+    {
+      "season": 2014,
+      "target_transform": "raw",
+      "additivity_max_error": 1.4210854715202004e-13,
+      "training_margin_sd": 18.85884374408952,
+      "n": 617,
+      "input_sha": "84eb454dd6963fc196c65e210226f33c5e979c7b523552dd99ee2b9068140bfa"
+    },
+    {
+      "season": 2015,
+      "target_transform": "asinh",
+      "additivity_max_error": 2.886579864025407e-15,
+      "training_margin_sd": 0.9212634000885938,
+      "n": 464,
+      "input_sha": "b992bc48af84e7604c9d56c0454bb2d0ee3ccbf3fed55f24f846aa0a7477d054"
+    },
+    {
+      "season": 2016,
+      "target_transform": "asinh",
+      "additivity_max_error": 3.552713678800501e-15,
+      "training_margin_sd": 0.7265313794068915,
+      "n": 460,
+      "input_sha": "29c6bfad1649fb8960a7c498439e776324df293d64cede1d64f9e8a0318b3804"
+    },
+    {
+      "season": 2017,
+      "target_transform": "asinh",
+      "additivity_max_error": 1.7208456881689926e-15,
+      "training_margin_sd": 0.92236557358658,
+      "n": 275,
+      "input_sha": "b9a6125ecd7de7b2fc7c8a73e9cf6d4e01f67d30c6abcabc51e918025f64525d"
+    },
+    {
+      "season": 2018,
+      "target_transform": "asinh",
+      "additivity_max_error": 7.105427357601002e-15,
+      "training_margin_sd": 0.9103279817499926,
+      "n": 394,
+      "input_sha": "2f3a2a6745b4857278c66bb8483ae757839b84b32a43f0657d92ba0115b9480d"
+    },
+    {
+      "season": 2019,
+      "target_transform": "asinh",
+      "additivity_max_error": 3.552713678800501e-15,
+      "training_margin_sd": 0.7940754659023511,
+      "n": 298,
+      "input_sha": "c42c9e1240f4117a248d0841c04b3b4b2cba46cded81d6e2c3d76ae56658f798"
+    },
+    {
+      "season": 2020,
+      "target_transform": "asinh",
+      "additivity_max_error": 5.329070518200751e-15,
+      "training_margin_sd": 0.9010238145592582,
+      "n": 511,
+      "input_sha": "b451abba4605bc7e97e8077f76ee81a86423e255bbcc9b009bbbb8c1a5518c93"
+    },
+    {
+      "season": 2021,
+      "target_transform": "asinh",
+      "additivity_max_error": 3.552713678800501e-15,
+      "training_margin_sd": 0.855814432791123,
+      "n": 300,
+      "input_sha": "6da7a3f15aba73c510466c6a85e271bebfe97184de40389b2c01276d578248ce"
+    }
+  ]
+}

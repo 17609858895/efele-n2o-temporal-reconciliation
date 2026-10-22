@@ -1,0 +1,23 @@
+﻿treatment,date,table_date,identifier,excel_row,Ntotal,Nmin,Norg,reason
+PS,2013-03-26,2013-03-26,PS_26/3/13,27,246.91338023344412,179.51970471617497,67.39367551726914,Identifier date; confirmed against operations where available
+AN,2013-03-26,2013-03-26,AN_26/3/13,27,76.0,76.0,0.0,Identifier date; confirmed against operations where available
+AN,2013-05-16,2013-05-16,AN_16/5/13,28,40.0,40.0,0.0,Dose table and identifier May 16; operations May 15; main source retained
+PS,2014-04-28,2014-04-28,PS_28/4/14,29,144.47031899525336,114.49372979031146,29.976589204941906,Identifier date; confirmed against operations where available
+AN,2014-04-28,2014-04-28,AN_28/4/14,29,102.0,102.0,0.0,Identifier date; confirmed against operations where available
+PS,2015-03-17,2015-03-17,PS_17/3/15,30,206.59201639849545,159.53152790615047,47.06048849234499,Identifier date; confirmed against operations where available
+AN,2015-03-17,2015-03-17,AN_17/3/15,30,80.0,80.0,0.0,Identifier date; confirmed against operations where available
+AN,2015-05-11,2015-05-11,AN_11/5/15,31,40.0,40.0,0.0,Identifier date; confirmed against operations where available
+PS,2016-04-25,2016-04-25,PS_25/4/16,32,138.06,98.28,39.78,Identifier date; confirmed against operations where available
+AN,2016-04-25,2016-04-25,AN_25/4/16,32,102.0,102.0,0.0,Identifier date; confirmed against operations where available
+PS,2017-03-21,2017-03-21,PS_21/3/17,33,123.10693207919874,89.37245023369668,33.73448184550206,Identifier date; confirmed against operations where available
+AN,2017-03-21,2017-03-21,AN_21/3/17,33,50.5,50.5,0.0,Identifier date; confirmed against operations where available
+AN,2017-05-04,2017-05-04,AN_4/5/17,34,30.0,30.0,0.0,Identifier date; confirmed against operations where available
+PS,2018-04-23,2018-04-23,PS_23/4/18,35,131.44,101.548,29.892000000000003,Identifier date; confirmed against operations where available
+AN,2018-04-23,2018-04-23,AN_23/4/18,35,126.0,126.0,0.0,Identifier date; confirmed against operations where available
+PS,2019-03-25,2019-03-25,PS_25/3/19,36,119.6,91.6,28.0,Identifier date; confirmed against operations where available
+AN,2019-03-26,2019-03-25,AN_26/3/19,36,115.0,115.0,0.0,Identifier date; confirmed against operations where available
+AN,2019-04-30,2019-04-30,AN_30/4/19,37,30.0,30.0,0.0,Identifier date; confirmed against operations where available
+PS,2020-05-19,2020-05-19,PS_19/5/20,38,126.7155594218908,101.35260427340351,25.362955148487288,Identifier date; confirmed against operations where available
+AN,2020-05-19,2020-05-19,AN_19/5/20,38,120.0,120.0,0.0,Identifier date; confirmed against operations where available
+PS,2021-04-26,2021-04-26,PS_26/4/21,39,226.0,148.0,78.0,Identifier date; confirmed against operations where available
+AN,2021-04-26,2021-04-26,AN_26/4/21,39,124.0,124.0,0.0,Identifier date; confirmed against operations where available

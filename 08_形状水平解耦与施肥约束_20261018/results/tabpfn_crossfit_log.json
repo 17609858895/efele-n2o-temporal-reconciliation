@@ -1,0 +1,506 @@
+[
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "predicted_cycles": [
+      2020,
+      2021
+    ],
+    "train_observations": 2508,
+    "predicted_days": 1588,
+    "seconds": 25.999627600016538,
+    "peak_gpu_bytes": 247823872
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "predicted_cycles": [
+      2019,
+      2021
+    ],
+    "train_observations": 2721,
+    "predicted_days": 1446,
+    "seconds": 19.568374500027858,
+    "peak_gpu_bytes": 260792320
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "predicted_cycles": [
+      2019,
+      2020
+    ],
+    "train_observations": 2510,
+    "predicted_days": 1386,
+    "seconds": 17.105764799984172,
+    "peak_gpu_bytes": 247933440
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "predicted_cycles": [
+      2018,
+      2021
+    ],
+    "train_observations": 2625,
+    "predicted_days": 1650,
+    "seconds": 24.344977399974596,
+    "peak_gpu_bytes": 254769664
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2021
+    ],
+    "predicted_cycles": [
+      2018,
+      2020
+    ],
+    "train_observations": 2414,
+    "predicted_days": 1590,
+    "seconds": 19.10423419997096,
+    "peak_gpu_bytes": 242148864
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2018,
+      2019
+    ],
+    "train_observations": 2627,
+    "predicted_days": 1448,
+    "seconds": 20.325894400011748,
+    "peak_gpu_bytes": 254526464
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "predicted_cycles": [
+      2017,
+      2021
+    ],
+    "train_observations": 2744,
+    "predicted_days": 1466,
+    "seconds": 23.200625900004525,
+    "peak_gpu_bytes": 264977408
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2021
+    ],
+    "predicted_cycles": [
+      2017,
+      2020
+    ],
+    "train_observations": 2533,
+    "predicted_days": 1406,
+    "seconds": 16.11045959999319,
+    "peak_gpu_bytes": 252118528
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2017,
+      2019
+    ],
+    "train_observations": 2746,
+    "predicted_days": 1264,
+    "seconds": 19.69212849996984,
+    "peak_gpu_bytes": 264983040
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2019,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2017,
+      2018
+    ],
+    "train_observations": 2650,
+    "predicted_days": 1468,
+    "seconds": 20.84376489999704,
+    "peak_gpu_bytes": 258407936
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "predicted_cycles": [
+      2016,
+      2021
+    ],
+    "train_observations": 2559,
+    "predicted_days": 1650,
+    "seconds": 22.538572199991904,
+    "peak_gpu_bytes": 252141568
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "predicted_cycles": [
+      2016,
+      2020
+    ],
+    "train_observations": 2348,
+    "predicted_days": 1590,
+    "seconds": 17.892863299988676,
+    "peak_gpu_bytes": 238281728
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2016,
+      2019
+    ],
+    "train_observations": 2561,
+    "predicted_days": 1448,
+    "seconds": 19.809246300021186,
+    "peak_gpu_bytes": 252132352
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2016,
+      2018
+    ],
+    "train_observations": 2465,
+    "predicted_days": 1652,
+    "seconds": 23.916911499982234,
+    "peak_gpu_bytes": 245807616
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2016,
+      2017
+    ],
+    "train_observations": 2584,
+    "predicted_days": 1468,
+    "seconds": 19.42508529999759,
+    "peak_gpu_bytes": 252400640
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "predicted_cycles": [
+      2015,
+      2021
+    ],
+    "train_observations": 2555,
+    "predicted_days": 1466,
+    "seconds": 21.5707468999899,
+    "peak_gpu_bytes": 252128768
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "predicted_cycles": [
+      2015,
+      2020
+    ],
+    "train_observations": 2344,
+    "predicted_days": 1406,
+    "seconds": 15.89392990001943,
+    "peak_gpu_bytes": 238259200
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2015,
+      2019
+    ],
+    "train_observations": 2557,
+    "predicted_days": 1264,
+    "seconds": 18.37119120004354,
+    "peak_gpu_bytes": 252129280
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2015,
+      2018
+    ],
+    "train_observations": 2461,
+    "predicted_days": 1468,
+    "seconds": 19.91230819997145,
+    "peak_gpu_bytes": 245793792
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2015,
+      2017
+    ],
+    "train_observations": 2580,
+    "predicted_days": 1284,
+    "seconds": 18.17270890000509,
+    "peak_gpu_bytes": 248878080
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2015,
+      2016
+    ],
+    "train_observations": 2395,
+    "predicted_days": 1468,
+    "seconds": 20.19366839999566,
+    "peak_gpu_bytes": 239928320
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "predicted_cycles": [
+      2014,
+      2021
+    ],
+    "train_observations": 2402,
+    "predicted_days": 1648,
+    "seconds": 21.953815999964718,
+    "peak_gpu_bytes": 241424384
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "predicted_cycles": [
+      2014,
+      2020
+    ],
+    "train_observations": 2191,
+    "predicted_days": 1588,
+    "seconds": 18.707545000012033,
+    "peak_gpu_bytes": 226963456
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2014,
+      2019
+    ],
+    "train_observations": 2404,
+    "predicted_days": 1446,
+    "seconds": 20.503414300037548,
+    "peak_gpu_bytes": 241534976
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2014,
+      2018
+    ],
+    "train_observations": 2308,
+    "predicted_days": 1650,
+    "seconds": 22.607865799975116,
+    "peak_gpu_bytes": 234366976
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2014,
+      2017
+    ],
+    "train_observations": 2427,
+    "predicted_days": 1466,
+    "seconds": 20.220853800012264,
+    "peak_gpu_bytes": 245778944
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2014,
+      2016
+    ],
+    "train_observations": 2242,
+    "predicted_days": 1650,
+    "seconds": 19.724835800006986,
+    "peak_gpu_bytes": 231544320
+  },
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "predicted_cycles": [
+      2014,
+      2015
+    ],
+    "train_observations": 2238,
+    "predicted_days": 1466,
+    "seconds": 18.961942500027362,
+    "peak_gpu_bytes": 231511040
+  }
+]

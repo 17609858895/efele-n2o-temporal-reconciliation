@@ -1,0 +1,38 @@
+{
+  "kernels": [
+    {
+      "tau": 3.0,
+      "finite_1500_day_mass": 0.9999999999999999,
+      "min_response": 0.0
+    },
+    {
+      "tau": 7.0,
+      "finite_1500_day_mass": 1.0000000000000002,
+      "min_response": 0.0
+    },
+    {
+      "tau": 14.0,
+      "finite_1500_day_mass": 1.0,
+      "min_response": 0.0
+    },
+    {
+      "tau": 30.0,
+      "finite_1500_day_mass": 0.9999999999999999,
+      "min_response": 0.0
+    },
+    {
+      "tau": 90.0,
+      "finite_1500_day_mass": 0.9999999422225148,
+      "min_response": 0.0
+    }
+  ],
+  "status": "passed",
+  "purpose": "Synthetic implementation verification; not research results",
+  "inference_label_perturbation_change": 0.0,
+  "exact_dose_scaling": true,
+  "before_application_zero": true,
+  "mean_consistency_error": 4.440892098500626e-16,
+  "level_KKT": 1.1102230246251565e-16,
+  "shape_KKT": 2.0816681711721685e-17,
+  "tied_KKT": 3.885780586188048e-16
+}

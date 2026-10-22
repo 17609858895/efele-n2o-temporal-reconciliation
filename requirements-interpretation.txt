@@ -1,0 +1,7 @@
+# Optional recomputation of TreeSHAP interactions, separate from saved-result work.
+# SHAP 0.46.0 runtime metadata supports numpy 1.26; the original pre-existing
+# environment recorded SHAP 0.52.0, whose current NumPy >=2 metadata conflicts.
+# This compatible alternative was metadata-checked, not fully retrained here.
+-r requirements.txt
+shap==0.46.0
+numba==0.60.0

@@ -1,0 +1,27 @@
+{
+  "source_hashes": {
+    "scripts/fit_decoupled.py": "397133f11ddec90ae323f93842f7178aa2d22d29add0f93a5f495e2617b045b4",
+    "scripts/common.py": "bcb142434fb6976ac52f158515ff2710aaf376abc66ceed5c04372d1bcf0171f",
+    "08_形状水平解耦与施肥约束_20261018/protocol.md": "af11ef16c0db0d76af2104b52ecdd949ea7ecb300e031750656b65ef31ad7575",
+    "08_形状水平解耦与施肥约束_20261018/results/base_completion.json": "e5f42111ae1338a63ac52093dc6323e9b3c6459d8889ef95108e1ac201dae3f0",
+    "08_形状水平解耦与施肥约束_20261018/results/tabpfn_crossfit_completion.json": "da8960348e052ed99b6da1f55b655c24a4c33d746415dfc91fc6143152f41871"
+  },
+  "models": [
+    "Blend50",
+    "BlendCycle",
+    "MeanReconciled",
+    "BiasReconciled",
+    "AffineReconciled",
+    "DecoupledNoPulse",
+    "DecoupledPulse",
+    "DecoupledUnconstrained",
+    "TiedPulse",
+    "PulseShapeOnly",
+    "PulseLevelOnly",
+    "DecoupledPulseWeak",
+    "DecoupledPulseStrong",
+    "DecoupledNoEnvironment"
+  ],
+  "archival_original_hashes": true,
+  "provenance_note": "Original frozen-run hashes; path labels are normalized for publication. Portable copies are verified by provenance/public_manifest.json. See provenance/source_map.csv for original versus public hashes."
+}

@@ -1,0 +1,12 @@
+{
+  "analytic_gradient_max_error": 1.605895860734563e-09,
+  "diagonal_upper_bound_min_eigenvalue": 2.451344689906439e-16,
+  "coupled_hessian_max_off_diagonal": 4.915752137002438,
+  "heldout_target_perturbation_max_prediction_change": 0.0,
+  "status": "passed",
+  "candidates": 14,
+  "unique_training_sets": 36,
+  "experiment_fits": 504,
+  "extra_technical_check_fits": 2,
+  "wall_seconds": 279.78553280001506
+}

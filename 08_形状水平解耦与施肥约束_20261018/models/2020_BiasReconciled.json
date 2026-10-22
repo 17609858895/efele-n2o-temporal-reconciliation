@@ -1,0 +1,40 @@
+{
+  "kind": "decoupled",
+  "lam": 1.0,
+  "pulse": false,
+  "constrained": true,
+  "environment": true,
+  "level_mode": "bias",
+  "sl": 7.440396272021069,
+  "sd": 23.888881782538434,
+  "norm_l": [],
+  "norm_s": [],
+  "beta_l": [
+    0.10590841783717593
+  ],
+  "beta_s": [
+    0.0
+  ],
+  "level_audit": {
+    "loss_initial": 0.14015774764247255,
+    "loss_final": 0.12894115467369874,
+    "kkt_max": 9.71445146547012e-17,
+    "n_parameters": 1,
+    "active_lower": 0,
+    "iterations": 0
+  },
+  "shape_audit": {
+    "fixed_shape": true
+  },
+  "train_cycles": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2021
+  ],
+  "train_groups": 14,
+  "train_observations": 2808
+}

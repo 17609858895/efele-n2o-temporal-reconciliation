@@ -1,0 +1,46 @@
+{
+  "kind": "decoupled",
+  "lam": 1.0,
+  "pulse": false,
+  "constrained": true,
+  "environment": true,
+  "level_mode": "affine",
+  "sl": 7.073647045805429,
+  "sd": 24.39858989708506,
+  "norm_l": [],
+  "norm_s": [],
+  "beta_l": [
+    0.08951742391328699,
+    0.15535387344226229
+  ],
+  "beta_s": [
+    0.005068768154517199
+  ],
+  "level_audit": {
+    "loss_initial": 0.24718268676491298,
+    "loss_final": 0.18510062206776015,
+    "kkt_max": 3.3306690738754696e-16,
+    "n_parameters": 2,
+    "active_lower": 0,
+    "iterations": 0
+  },
+  "shape_audit": {
+    "loss_initial": 0.3106881725014485,
+    "loss_final": 0.3106706401537534,
+    "kkt_max": 1.474514954580286e-17,
+    "n_parameters": 1,
+    "active_lower": 0,
+    "iterations": 0
+  },
+  "train_cycles": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020
+  ],
+  "train_groups": 14,
+  "train_observations": 3019
+}

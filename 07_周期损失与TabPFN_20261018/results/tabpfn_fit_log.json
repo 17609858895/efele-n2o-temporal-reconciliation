@@ -1,0 +1,498 @@
+[
+  {
+    "outer_test": 2014,
+    "model": "TabPFN_Cycle",
+    "device": "cuda",
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 14,
+    "features": 12,
+    "n_estimators": 8,
+    "status": "success",
+    "seconds": 7.256828400015365,
+    "gpu_peak_bytes": 73870848
+  },
+  {
+    "outer_test": 2014,
+    "model": "TabPFN_DailyRaw",
+    "device": "cuda",
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 2702,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 4.665138244628906,
+    "status": "success",
+    "seconds": 11.66602539998712,
+    "gpu_peak_bytes": 260615168
+  },
+  {
+    "outer_test": 2014,
+    "model": "TabPFN_DailyAsinh",
+    "device": "cuda",
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 2702,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 4.665138244628906,
+    "status": "success",
+    "seconds": 12.057492899999488,
+    "gpu_peak_bytes": 260615168
+  },
+  {
+    "outer_test": 2015,
+    "model": "TabPFN_Cycle",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 14,
+    "features": 12,
+    "n_estimators": 8,
+    "status": "success",
+    "seconds": 2.6286040999984834,
+    "gpu_peak_bytes": 73870848
+  },
+  {
+    "outer_test": 2015,
+    "model": "TabPFN_DailyRaw",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 2855,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 5.577905178070068,
+    "status": "success",
+    "seconds": 9.342026300000725,
+    "gpu_peak_bytes": 272551424
+  },
+  {
+    "outer_test": 2015,
+    "model": "TabPFN_DailyAsinh",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 2855,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 5.577905178070068,
+    "status": "success",
+    "seconds": 8.668977799999993,
+    "gpu_peak_bytes": 272551424
+  },
+  {
+    "outer_test": 2016,
+    "model": "TabPFN_Cycle",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 14,
+    "features": 12,
+    "n_estimators": 8,
+    "status": "success",
+    "seconds": 2.604969300009543,
+    "gpu_peak_bytes": 73870848
+  },
+  {
+    "outer_test": 2016,
+    "model": "TabPFN_DailyRaw",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 2859,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 5.415021896362305,
+    "status": "success",
+    "seconds": 11.865424500021618,
+    "gpu_peak_bytes": 272563200
+  },
+  {
+    "outer_test": 2016,
+    "model": "TabPFN_DailyAsinh",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 2859,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 5.415021896362305,
+    "status": "success",
+    "seconds": 11.15116740000667,
+    "gpu_peak_bytes": 272563200
+  },
+  {
+    "outer_test": 2017,
+    "model": "TabPFN_Cycle",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 14,
+    "features": 12,
+    "n_estimators": 8,
+    "status": "success",
+    "seconds": 2.6119353999965824,
+    "gpu_peak_bytes": 73870848
+  },
+  {
+    "outer_test": 2017,
+    "model": "TabPFN_DailyRaw",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 3044,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 5.235465049743652,
+    "status": "success",
+    "seconds": 9.838331000006292,
+    "gpu_peak_bytes": 281973248
+  },
+  {
+    "outer_test": 2017,
+    "model": "TabPFN_DailyAsinh",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 3044,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 5.235465049743652,
+    "status": "success",
+    "seconds": 8.920713900006376,
+    "gpu_peak_bytes": 281973248
+  },
+  {
+    "outer_test": 2018,
+    "model": "TabPFN_Cycle",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 14,
+    "features": 12,
+    "n_estimators": 8,
+    "status": "success",
+    "seconds": 2.643210900016129,
+    "gpu_peak_bytes": 73870848
+  },
+  {
+    "outer_test": 2018,
+    "model": "TabPFN_DailyRaw",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 2925,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 4.959414958953857,
+    "status": "success",
+    "seconds": 12.159658399992622,
+    "gpu_peak_bytes": 274542080
+  },
+  {
+    "outer_test": 2018,
+    "model": "TabPFN_DailyAsinh",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "train_n": 2925,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 4.959414958953857,
+    "status": "success",
+    "seconds": 12.58904240000993,
+    "gpu_peak_bytes": 274542080
+  },
+  {
+    "outer_test": 2019,
+    "model": "TabPFN_Cycle",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "train_n": 14,
+    "features": 12,
+    "n_estimators": 8,
+    "status": "success",
+    "seconds": 2.685376000008546,
+    "gpu_peak_bytes": 73870848
+  },
+  {
+    "outer_test": 2019,
+    "model": "TabPFN_DailyRaw",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "train_n": 3021,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 5.726356029510498,
+    "status": "success",
+    "seconds": 10.45981239998946,
+    "gpu_peak_bytes": 280537088
+  },
+  {
+    "outer_test": 2019,
+    "model": "TabPFN_DailyAsinh",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "train_n": 3021,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 5.726356029510498,
+    "status": "success",
+    "seconds": 9.852392700006021,
+    "gpu_peak_bytes": 280537088
+  },
+  {
+    "outer_test": 2020,
+    "model": "TabPFN_Cycle",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "train_n": 14,
+    "features": 12,
+    "n_estimators": 8,
+    "status": "success",
+    "seconds": 2.963867799990112,
+    "gpu_peak_bytes": 73870848
+  },
+  {
+    "outer_test": 2020,
+    "model": "TabPFN_DailyRaw",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "train_n": 2808,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 5.428492546081543,
+    "status": "success",
+    "seconds": 8.356886499997927,
+    "gpu_peak_bytes": 267234304
+  },
+  {
+    "outer_test": 2020,
+    "model": "TabPFN_DailyAsinh",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "train_n": 2808,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 5.428492546081543,
+    "status": "success",
+    "seconds": 8.550653299986152,
+    "gpu_peak_bytes": 267234304
+  },
+  {
+    "outer_test": 2021,
+    "model": "TabPFN_Cycle",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "train_n": 14,
+    "features": 12,
+    "n_estimators": 8,
+    "status": "success",
+    "seconds": 4.501756200013915,
+    "gpu_peak_bytes": 73870848
+  },
+  {
+    "outer_test": 2021,
+    "model": "TabPFN_DailyRaw",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "train_n": 3019,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 4.753452777862549,
+    "status": "success",
+    "seconds": 13.333995900000446,
+    "gpu_peak_bytes": 280413184
+  },
+  {
+    "outer_test": 2021,
+    "model": "TabPFN_DailyAsinh",
+    "device": "cuda",
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "train_n": 3019,
+    "features": 42,
+    "n_estimators": 4,
+    "scale": 4.753452777862549,
+    "status": "success",
+    "seconds": 11.90157369998633,
+    "gpu_peak_bytes": 280413184
+  }
+]

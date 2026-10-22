@@ -1,0 +1,48 @@
+{
+  "status": "completed",
+  "training_subsets": 36,
+  "lgb_fits": 288,
+  "source_reproduction": [
+    {
+      "held": 2014,
+      "max_prediction_difference": 1.4210854715202004e-14,
+      "n": 824
+    },
+    {
+      "held": 2015,
+      "max_prediction_difference": 3.552713678800501e-15,
+      "n": 642
+    },
+    {
+      "held": 2016,
+      "max_prediction_difference": 7.105427357601002e-15,
+      "n": 826
+    },
+    {
+      "held": 2017,
+      "max_prediction_difference": 8.881784197001252e-16,
+      "n": 642
+    },
+    {
+      "held": 2018,
+      "max_prediction_difference": 7.105427357601002e-15,
+      "n": 826
+    },
+    {
+      "held": 2019,
+      "max_prediction_difference": 3.552713678800501e-15,
+      "n": 622
+    },
+    {
+      "held": 2020,
+      "max_prediction_difference": 7.105427357601002e-15,
+      "n": 764
+    },
+    {
+      "held": 2021,
+      "max_prediction_difference": 1.4210854715202004e-14,
+      "n": 824
+    }
+  ],
+  "seconds": 123.60032389999833
+}

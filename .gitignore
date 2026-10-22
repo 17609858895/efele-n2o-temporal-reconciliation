@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv*/
+_runs/
+*.ckpt
+*.pth
+*.pt
+.env
+*.log

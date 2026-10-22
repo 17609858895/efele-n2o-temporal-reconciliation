@@ -1,0 +1,18 @@
+{
+  "purpose": "synthetic technical check, no EFELE data or score",
+  "torch": "2.7.1+cu126",
+  "tabpfn": "2.1.2",
+  "python": "3.12.9",
+  "python_executable": "07_周期损失与TabPFN_20261018/.venv-tabpfn/Scripts/python.exe",
+  "device": "cuda",
+  "cuda_available": true,
+  "gpu_name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "checkpoint": "<TABPFN_CHECKPOINT>",
+  "checkpoint_sha256": "2ab5a07d5c41dfe6db9aa7ae106fc6de898326c2765be66505a07e2868c10736",
+  "seconds": 11.64079259999562,
+  "finite": true,
+  "prediction_shape": [
+    8
+  ],
+  "status": "passed"
+}

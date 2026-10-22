@@ -1,0 +1,155 @@
+{
+  "models": {
+    "Calendar": [
+      {
+        "alpha": 10.0,
+        "transform": "raw"
+      }
+    ],
+    "GAM": [
+      {
+        "alpha": 10.0,
+        "transform": "raw"
+      },
+      {
+        "alpha": 10.0,
+        "transform": "asinh"
+      },
+      {
+        "alpha": 100.0,
+        "transform": "raw"
+      },
+      {
+        "alpha": 100.0,
+        "transform": "asinh"
+      }
+    ],
+    "LightGBM": [
+      {
+        "leaves": 7,
+        "trees": 200,
+        "transform": "raw"
+      },
+      {
+        "leaves": 7,
+        "trees": 200,
+        "transform": "asinh"
+      },
+      {
+        "leaves": 15,
+        "trees": 300,
+        "transform": "raw"
+      },
+      {
+        "leaves": 15,
+        "trees": 300,
+        "transform": "asinh"
+      }
+    ],
+    "FixedMemory": [
+      {
+        "reg": 0.01,
+        "raw_weight": 0.0
+      },
+      {
+        "reg": 0.01,
+        "raw_weight": 0.25
+      },
+      {
+        "reg": 0.1,
+        "raw_weight": 0.0
+      },
+      {
+        "reg": 0.1,
+        "raw_weight": 0.25
+      }
+    ],
+    "LearnedMemory": [
+      {
+        "reg": 0.01,
+        "raw_weight": 0.0
+      },
+      {
+        "reg": 0.01,
+        "raw_weight": 0.25
+      },
+      {
+        "reg": 0.1,
+        "raw_weight": 0.0
+      },
+      {
+        "reg": 0.1,
+        "raw_weight": 0.25
+      }
+    ],
+    "GatedMemory": [
+      {
+        "reg": 0.01,
+        "raw_weight": 0.0
+      },
+      {
+        "reg": 0.01,
+        "raw_weight": 0.25
+      },
+      {
+        "reg": 0.1,
+        "raw_weight": 0.0
+      },
+      {
+        "reg": 0.1,
+        "raw_weight": 0.25
+      }
+    ],
+    "MemoryLightGBM": [
+      {
+        "leaves": 7,
+        "trees": 200,
+        "transform": "raw"
+      },
+      {
+        "leaves": 7,
+        "trees": 200,
+        "transform": "asinh"
+      },
+      {
+        "leaves": 15,
+        "trees": 300,
+        "transform": "raw"
+      },
+      {
+        "leaves": 15,
+        "trees": 300,
+        "transform": "asinh"
+      }
+    ]
+  },
+  "loco_tests": [
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "forward_tests": [
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "warmup": 180,
+  "init_states": [
+    0,
+    0
+  ],
+  "fold_definition": "Management cycles; both treatments held out together",
+  "seeds": [
+    20261018
+  ],
+  "inner_validation": "Two predetermined whole cycles; strictly earlier training in forward splits",
+  "primary": "Mean across cycles of mean treatment RMSE in original g N2O-N ha-1 day-1",
+  "target": "Recorded daily flux; no imputed y; signed values retained",
+  "note": "Exploratory development. All existing seasons already inspected descriptively; no blind test claim."
+}

@@ -1,0 +1,34 @@
+{
+  "passed": true,
+  "models": 18,
+  "maximum_absolute_metric_difference": 0.0,
+  "paired_intervals_match": true,
+  "core_metrics": {
+    "OriginalLightGBM": {
+      "R2_daily": 0.2777018390485084,
+      "R2_cycle": 0.7634799697989234,
+      "continuous_window_WAPE": 0.5678769031335462
+    },
+    "TabPFN_DailyRaw": {
+      "R2_daily": 0.3320908181064949,
+      "R2_cycle": 0.6304578057523023,
+      "continuous_window_WAPE": 0.6177559356334859
+    },
+    "MeanReconciled": {
+      "R2_daily": 0.34157391782923485,
+      "R2_cycle": 0.7634799697989234,
+      "continuous_window_WAPE": 0.5655675455989063
+    },
+    "AffineReconciled": {
+      "R2_daily": 0.345406380550505,
+      "R2_cycle": 0.8107190381414101,
+      "continuous_window_WAPE": 0.5919483242659667
+    },
+    "DecoupledPulse": {
+      "R2_daily": 0.3425271071163738,
+      "R2_cycle": 0.805617015468678,
+      "continuous_window_WAPE": 0.5949882104299943
+    }
+  },
+  "scope": "Recomputation conditional on frozen predictions; no model training"
+}

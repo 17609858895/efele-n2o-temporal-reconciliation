@@ -1,0 +1,58 @@
+[
+  {
+    "held": 2014,
+    "lightgbm_max_error": 0.0,
+    "tabpfn_max_error": 3.7695312471441866e-06,
+    "tabpfn_r2_difference": 1.9321780365598197e-09,
+    "mode": "low_memory"
+  },
+  {
+    "held": 2015,
+    "lightgbm_max_error": 0.0,
+    "tabpfn_max_error": 9.338378923473556e-07,
+    "tabpfn_r2_difference": 8.805356208119517e-10,
+    "mode": "low_memory"
+  },
+  {
+    "held": 2016,
+    "lightgbm_max_error": 0.0,
+    "tabpfn_max_error": 3.715820312777396e-06,
+    "tabpfn_r2_difference": 1.9055682631090698e-09,
+    "mode": "low_memory"
+  },
+  {
+    "held": 2017,
+    "lightgbm_max_error": 0.0,
+    "tabpfn_max_error": 4.567871094707243e-07,
+    "tabpfn_r2_difference": 1.7919601901482952e-09,
+    "mode": "low_memory"
+  },
+  {
+    "held": 2018,
+    "lightgbm_max_error": 0.0,
+    "tabpfn_max_error": 3.249511721037379e-06,
+    "tabpfn_r2_difference": 2.717880154692063e-10,
+    "mode": "low_memory"
+  },
+  {
+    "held": 2019,
+    "lightgbm_max_error": 0.0,
+    "tabpfn_max_error": 8.947753897814437e-07,
+    "tabpfn_r2_difference": 2.7323428326702355e-08,
+    "mode": "low_memory"
+  },
+  {
+    "held": 2020,
+    "lightgbm_max_error": 0.0,
+    "tabpfn_max_error": 1.8176269520608912e-06,
+    "tabpfn_r2_difference": 2.0164187512633537e-09,
+    "mode": "low_memory"
+  },
+  {
+    "held": 2021,
+    "lightgbm_max_error": 0.0,
+    "tabpfn_max_error": 3.784179682497779e-06,
+    "tabpfn_r2_difference": 6.672080967860151e-09,
+    "mode": "low_memory"
+  }
+]

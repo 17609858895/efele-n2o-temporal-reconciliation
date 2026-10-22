@@ -1,0 +1,4 @@
+﻿site,longitude,latitude,status,source,precision
+EFELE,-1.7955555555555553,48.10194444444445,Development,"EFELE management metadata: 48 06 07 N, 1 47 44 W",experiment coordinates
+Nouzilly,0.7923506488000001,47.5408994704,External candidate,00_原始数据\EJPSoil-WP4 - N2O Flux Database\Field data - Nouzilly Metha Metha project\meas_xy.xlsx,mean coordinates of 25 N2O chambers
+Grabenegg,15.25,48.2,External candidate,https://doi.org/10.5194/soil-10-521-2024,published location of Grabenegg experimental area; exact EOM4Soil plot not verified

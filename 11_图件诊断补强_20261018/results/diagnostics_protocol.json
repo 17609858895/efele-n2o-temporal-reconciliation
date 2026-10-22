@@ -1,0 +1,25 @@
+{
+  "prediction_source": "08_形状水平解耦与施肥约束_20261018/results/all_daily_predictions.csv",
+  "sha256": "cf17886dd018fb042e92fae15c6fc72cc64825e861ceaff5dfb3aea18cfb1f51",
+  "quantile_edges": [
+    -15.141993,
+    5.087248,
+    12.365411,
+    35.34847060000001,
+    59.63135599999999,
+    526.143011
+  ],
+  "quantiles": [
+    0,
+    0.5,
+    0.75,
+    0.9,
+    0.95,
+    1
+  ],
+  "bootstrap_unit": "management cycle, both treatments retained together",
+  "bootstrap_replicates": 2000,
+  "seed": 20261018,
+  "thresholds": "fixed from pooled held-out observations; descriptive conditioning",
+  "selection": "all 3319 observed treatment-days; identical support for all three models"
+}

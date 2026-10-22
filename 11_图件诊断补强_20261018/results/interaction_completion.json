@@ -1,0 +1,87 @@
+{
+  "passed": true,
+  "folds": 8,
+  "n": 3319,
+  "checks": [
+    {
+      "season": 2014,
+      "n": 617,
+      "input_sha256": "84eb454dd6963fc196c65e210226f33c5e979c7b523552dd99ee2b9068140bfa",
+      "training_margin_sd": 18.85884374408952,
+      "row_sum_max_error": 1.2079226507921703e-13,
+      "symmetry_max_error": 3.552713678800501e-15,
+      "additivity_max_error": 1.4210854715202004e-13,
+      "seconds": 13.150129795074463
+    },
+    {
+      "season": 2015,
+      "n": 464,
+      "input_sha256": "b992bc48af84e7604c9d56c0454bb2d0ee3ccbf3fed55f24f846aa0a7477d054",
+      "training_margin_sd": 0.9212634000885938,
+      "row_sum_max_error": 2.6645352591003757e-15,
+      "symmetry_max_error": 2.220446049250313e-16,
+      "additivity_max_error": 3.3306690738754696e-15,
+      "seconds": 10.671391725540161
+    },
+    {
+      "season": 2016,
+      "n": 460,
+      "input_sha256": "29c6bfad1649fb8960a7c498439e776324df293d64cede1d64f9e8a0318b3804",
+      "training_margin_sd": 0.7265313794068915,
+      "row_sum_max_error": 5.828670879282072e-16,
+      "symmetry_max_error": 1.4051260155412137e-16,
+      "additivity_max_error": 3.9968028886505635e-15,
+      "seconds": 1.7388458251953125
+    },
+    {
+      "season": 2017,
+      "n": 275,
+      "input_sha256": "b9a6125ecd7de7b2fc7c8a73e9cf6d4e01f67d30c6abcabc51e918025f64525d",
+      "training_margin_sd": 0.92236557358658,
+      "row_sum_max_error": 1.609823385706477e-15,
+      "symmetry_max_error": 1.1102230246251565e-16,
+      "additivity_max_error": 3.164135620181696e-15,
+      "seconds": 8.169110298156738
+    },
+    {
+      "season": 2018,
+      "n": 394,
+      "input_sha256": "2f3a2a6745b4857278c66bb8483ae757839b84b32a43f0657d92ba0115b9480d",
+      "training_margin_sd": 0.9103279817499926,
+      "row_sum_max_error": 2.275957200481571e-15,
+      "symmetry_max_error": 9.71445146547012e-17,
+      "additivity_max_error": 8.43769498715119e-15,
+      "seconds": 10.224222898483276
+    },
+    {
+      "season": 2019,
+      "n": 298,
+      "input_sha256": "c42c9e1240f4117a248d0841c04b3b4b2cba46cded81d6e2c3d76ae56658f798",
+      "training_margin_sd": 0.7940754659023511,
+      "row_sum_max_error": 1.3322676295501878e-15,
+      "symmetry_max_error": 8.326672684688674e-17,
+      "additivity_max_error": 3.1086244689504383e-15,
+      "seconds": 1.0055851936340332
+    },
+    {
+      "season": 2020,
+      "n": 511,
+      "input_sha256": "b451abba4605bc7e97e8077f76ee81a86423e255bbcc9b009bbbb8c1a5518c93",
+      "training_margin_sd": 0.9010238145592582,
+      "row_sum_max_error": 2.220446049250313e-15,
+      "symmetry_max_error": 1.2836953722228372e-16,
+      "additivity_max_error": 7.105427357601002e-15,
+      "seconds": 12.229203939437866
+    },
+    {
+      "season": 2021,
+      "n": 300,
+      "input_sha256": "6da7a3f15aba73c510466c6a85e271bebfe97184de40389b2c01276d578248ce",
+      "training_margin_sd": 0.855814432791123,
+      "row_sum_max_error": 1.3322676295501878e-15,
+      "symmetry_max_error": 1.1102230246251565e-16,
+      "additivity_max_error": 3.552713678800501e-15,
+      "seconds": 1.0712227821350098
+    }
+  ]
+}

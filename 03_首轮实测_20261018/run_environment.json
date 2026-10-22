@@ -1,0 +1,28 @@
+{
+  "seed": 20261018,
+  "python": "3.12.3 | packaged by conda-forge | (main, Apr 15 2024, 18:20:11) [MSC v.1938 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "numpy": "1.26.4",
+  "pandas": "2.2.2",
+  "scipy": "1.13.1",
+  "sklearn": "1.5.1",
+  "torch": "2.13.0+cpu",
+  "lightgbm": "4.6.0",
+  "threads": 2,
+  "cuda": false,
+  "sources": [
+    {
+      "path": "00_原始数据\\EJPSoil-WP4 - N2O Flux Database\\Field data - SOERE-PRO EFELE\\EFELE_DailyMetData_2013-2021.csv",
+      "sha256": "59acf5c014e80d3b9ebfe111972458a77d62add234ebb981d82c49d29f3f3769"
+    },
+    {
+      "path": "00_原始数据\\EJPSoil-WP4 - N2O Flux Database\\Field data - SOERE-PRO EFELE\\EFELE_DailyN2Ofluxes_2013-2021.csv",
+      "sha256": "881d9c028a96ddb54b029234a43e274173bf4087c31c71b4cff6f61eebde61ab"
+    },
+    {
+      "path": "00_原始数据\\EJPSoil-WP4 - N2O Flux Database\\Field data - SOERE-PRO EFELE\\EFELE_SoilCropManagement_2013-2021.xls",
+      "sha256": "12db3b35aa5faf1093c2adb23321cbfa91cf8d88a80ec7ea3901dae84879b46a"
+    }
+  ],
+  "script_sha256": "3dcc5e630cf35e386685f76d2be621ee22c295b5ca4165f0fd6d3406ddd1d880"
+}

@@ -1,0 +1,5074 @@
+[
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.15934389998437837,
+    "target_scale": 5.785737
+  },
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16946169995935634,
+    "target_scale": 5.785737
+  },
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4096305000130087,
+    "target_scale": 5.785737
+  },
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.44535130000440404,
+    "target_scale": 5.785737
+  },
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1472646999754943,
+    "target_scale": 4.2877295
+  },
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1610412999871187,
+    "target_scale": 4.2877295
+  },
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3872947000199929,
+    "target_scale": 4.2877295
+  },
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4113509000162594,
+    "target_scale": 4.2877295
+  },
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14638879999984056,
+    "target_scale": 5.010933
+  },
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16626149998046458,
+    "target_scale": 5.010933
+  },
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.39558389998273924,
+    "target_scale": 5.010933
+  },
+  {
+    "train_cycles": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4137189000030048,
+    "target_scale": 5.010933
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.13836620002985,
+    "target_scale": 5.491941
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.15279759996337816,
+    "target_scale": 5.491941
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3585983000230044,
+    "target_scale": 5.491941
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.3834667999763042,
+    "target_scale": 5.491941
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.13715309998951852,
+    "target_scale": 4.04504
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.15136170003097504,
+    "target_scale": 4.04504
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.35984109999844804,
+    "target_scale": 4.04504
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.3829628000385128,
+    "target_scale": 4.04504
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14780870004324242,
+    "target_scale": 4.7701265
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16626800002995878,
+    "target_scale": 4.7701265
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3977335999952629,
+    "target_scale": 4.7701265
+  },
+  {
+    "train_cycles": [
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4251790000125766,
+    "target_scale": 4.7701265
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.15358600002946332,
+    "target_scale": 5.302337
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16595210001105443,
+    "target_scale": 5.302337
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.39604260004125535,
+    "target_scale": 5.302337
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4177858000039123,
+    "target_scale": 5.302337
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1523645999841392,
+    "target_scale": 4.0057
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16977410000981763,
+    "target_scale": 4.0057
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3898291999939829,
+    "target_scale": 4.0057
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4104582000290975,
+    "target_scale": 4.0057
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1495409000199288,
+    "target_scale": 4.664547
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16528170002857223,
+    "target_scale": 4.664547
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3784760000417009,
+    "target_scale": 4.664547
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4037388999713585,
+    "target_scale": 4.664547
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1585258999839425,
+    "target_scale": 4.915127
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.17256509995786473,
+    "target_scale": 4.915127
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.40081179997650906,
+    "target_scale": 4.915127
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.42947580001782626,
+    "target_scale": 4.915127
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14583239995408803,
+    "target_scale": 3.6957405
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16535969998221844,
+    "target_scale": 3.6957405
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3749072999926284,
+    "target_scale": 3.6957405
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4055009000003338,
+    "target_scale": 3.6957405
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16044140001758933,
+    "target_scale": 4.302176
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.17472559999441728,
+    "target_scale": 4.302176
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3920104999560863,
+    "target_scale": 4.302176
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.42621130001498386,
+    "target_scale": 4.302176
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14955900004133582,
+    "target_scale": 4.5559855
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16361360001610592,
+    "target_scale": 4.5559855
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.37474269996164367,
+    "target_scale": 4.5559855
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.41179290000582114,
+    "target_scale": 4.5559855
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1605140999890864,
+    "target_scale": 5.242681
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.17178890004288405,
+    "target_scale": 5.242681
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3924821999971755,
+    "target_scale": 5.242681
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.41396969999186695,
+    "target_scale": 5.242681
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1389614999643527,
+    "target_scale": 5.520065
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.15040699997916818,
+    "target_scale": 5.520065
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3550329999998212,
+    "target_scale": 5.520065
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.3705672000069171,
+    "target_scale": 5.520065
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1505168000003323,
+    "target_scale": 4.045315
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16723049996653572,
+    "target_scale": 4.045315
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3832639000029303,
+    "target_scale": 4.045315
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4143466000095941,
+    "target_scale": 4.045315
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16009369998937473,
+    "target_scale": 4.784903
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.17537429998628795,
+    "target_scale": 4.784903
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.39992050000000745,
+    "target_scale": 4.784903
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.438359199964907,
+    "target_scale": 4.784903
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.15865699999267235,
+    "target_scale": 4.0967365000000004
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1758962000021711,
+    "target_scale": 4.0967365000000004
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.38819060003152117,
+    "target_scale": 4.0967365000000004
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4268283999990672,
+    "target_scale": 4.0967365000000004
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1659003000240773,
+    "target_scale": 6.98489
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.17994969995925203,
+    "target_scale": 6.98489
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4413090999587439,
+    "target_scale": 6.98489
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4569817000301555,
+    "target_scale": 6.98489
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1453412999981083,
+    "target_scale": 5.195782
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1650317999883555,
+    "target_scale": 5.195782
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.39513499999884516,
+    "target_scale": 5.195782
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4158208000008017,
+    "target_scale": 5.195782
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14986190001945943,
+    "target_scale": 5.943535
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16938320000190288,
+    "target_scale": 5.943535
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.38362699997378513,
+    "target_scale": 5.943535
+  },
+  {
+    "train_cycles": [
+      2014,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.41241940000327304,
+    "target_scale": 5.943535
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16440029995283112,
+    "target_scale": 6.60744
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.181078499997966,
+    "target_scale": 6.60744
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4286703999969177,
+    "target_scale": 6.60744
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.44172750000143424,
+    "target_scale": 6.60744
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.15479909995337948,
+    "target_scale": 5.022919
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1743080000160262,
+    "target_scale": 5.022919
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.40466110000852495,
+    "target_scale": 5.022919
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.43634089996339753,
+    "target_scale": 5.022919
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.15260380000108853,
+    "target_scale": 5.6620275
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1718935999670066,
+    "target_scale": 5.6620275
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4035073999548331,
+    "target_scale": 5.6620275
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4257763000205159,
+    "target_scale": 5.6620275
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1636850999784656,
+    "target_scale": 6.085663
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16814500000327826,
+    "target_scale": 6.085663
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3928578000050038,
+    "target_scale": 6.085663
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4105707000126131,
+    "target_scale": 6.085663
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14243840001290664,
+    "target_scale": 4.690829
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16710999998031184,
+    "target_scale": 4.690829
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.36828389996662736,
+    "target_scale": 4.690829
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4052289000246674,
+    "target_scale": 4.690829
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1659234000253491,
+    "target_scale": 5.326529
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.19085319997975603,
+    "target_scale": 5.326529
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4424027999630198,
+    "target_scale": 5.326529
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4698705999762751,
+    "target_scale": 5.326529
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1453427000087686,
+    "target_scale": 5.663677
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1635233999695629,
+    "target_scale": 5.663677
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.36645520001184195,
+    "target_scale": 5.663677
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4009568000328727,
+    "target_scale": 5.663677
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16361980000510812,
+    "target_scale": 6.338854
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18221110000740737,
+    "target_scale": 6.338854
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.41453470004489645,
+    "target_scale": 6.338854
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4270498999976553,
+    "target_scale": 6.338854
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14436420000856742,
+    "target_scale": 6.9956115
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.15694780001649633,
+    "target_scale": 6.9956115
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.37356310000177473,
+    "target_scale": 6.9956115
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.39187890000175685,
+    "target_scale": 6.9956115
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14567759999772534,
+    "target_scale": 5.215493
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16428839997388422,
+    "target_scale": 5.215493
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3744384999736212,
+    "target_scale": 5.215493
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4084467000211589,
+    "target_scale": 5.215493
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16273789998376742,
+    "target_scale": 5.9752865
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.17962780001107603,
+    "target_scale": 5.9752865
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4233613000251353,
+    "target_scale": 5.9752865
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4480254999944009,
+    "target_scale": 5.9752865
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1572728999890387,
+    "target_scale": 5.011648
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18369869998423383,
+    "target_scale": 5.011648
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.41052110004238784,
+    "target_scale": 5.011648
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4519066999782808,
+    "target_scale": 5.011648
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16069089999655262,
+    "target_scale": 6.35095
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.17941360000986606,
+    "target_scale": 6.35095
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.43923660001019016,
+    "target_scale": 6.35095
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4456884000101127,
+    "target_scale": 6.35095
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.17365980002796277,
+    "target_scale": 4.842124999999999
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18862670002272353,
+    "target_scale": 4.842124999999999
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4490098999813199,
+    "target_scale": 4.842124999999999
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.47343989997170866,
+    "target_scale": 4.842124999999999
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14976160001242533,
+    "target_scale": 5.4727665000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16720540000824258,
+    "target_scale": 5.4727665000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3817181000486016,
+    "target_scale": 5.4727665000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.3989090999821201,
+    "target_scale": 5.4727665000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.15051750000566244,
+    "target_scale": 5.795084
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16355180001119152,
+    "target_scale": 5.795084
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3794903000234626,
+    "target_scale": 5.795084
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.39058800000930205,
+    "target_scale": 5.795084
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14224189997185022,
+    "target_scale": 4.441844
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1612559999921359,
+    "target_scale": 4.441844
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.376990599965211,
+    "target_scale": 4.441844
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4104541999986395,
+    "target_scale": 4.441844
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1706856000237167,
+    "target_scale": 5.101598
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1865933999652043,
+    "target_scale": 5.101598
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4370138000231236,
+    "target_scale": 5.101598
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4592320999945514,
+    "target_scale": 5.101598
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.15336960001150146,
+    "target_scale": 5.460354
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16634900000644848,
+    "target_scale": 5.460354
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4212011999916285,
+    "target_scale": 5.460354
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4499161000130698,
+    "target_scale": 5.460354
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.17480959999375045,
+    "target_scale": 6.163462
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18511829996714368,
+    "target_scale": 6.163462
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4465012999717146,
+    "target_scale": 6.163462
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.46584469999652356,
+    "target_scale": 6.163462
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.15094119997229427,
+    "target_scale": 6.756716
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1653705000062473,
+    "target_scale": 6.756716
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3891750000184402,
+    "target_scale": 6.756716
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.409508700016886,
+    "target_scale": 6.756716
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1510804999852553,
+    "target_scale": 4.996706
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.17319320002570748,
+    "target_scale": 4.996706
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3936410999740474,
+    "target_scale": 4.996706
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4313857000088319,
+    "target_scale": 4.996706
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1541950999526307,
+    "target_scale": 5.7306995
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1735078999772668,
+    "target_scale": 5.7306995
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.39229819999309257,
+    "target_scale": 5.7306995
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4155304000014439,
+    "target_scale": 5.7306995
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.168826800014358,
+    "target_scale": 4.807885
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.19158109999261796,
+    "target_scale": 4.807885
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.42831639997893944,
+    "target_scale": 4.807885
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4602073999703862,
+    "target_scale": 4.807885
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16046039998764172,
+    "target_scale": 5.5580435
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18080089997965842,
+    "target_scale": 5.5580435
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.40963599999668077,
+    "target_scale": 5.5580435
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4398745000362396,
+    "target_scale": 5.5580435
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.15269199997419491,
+    "target_scale": 4.368608
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18023970001377165,
+    "target_scale": 4.368608
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3909515999839641,
+    "target_scale": 4.368608
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4371546000475064,
+    "target_scale": 4.368608
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16137459996389225,
+    "target_scale": 4.9728715
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18192419997649267,
+    "target_scale": 4.9728715
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.39727010001661256,
+    "target_scale": 4.9728715
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.43625129997963086,
+    "target_scale": 4.9728715
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.15576559997862205,
+    "target_scale": 5.223754
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18016470002476126,
+    "target_scale": 5.223754
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3901731999940239,
+    "target_scale": 5.223754
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4330056000035256,
+    "target_scale": 5.223754
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16940979997161776,
+    "target_scale": 5.8398935
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18808479997096583,
+    "target_scale": 5.8398935
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.41700369998579845,
+    "target_scale": 5.8398935
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4363881999743171,
+    "target_scale": 5.8398935
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14954650000436231,
+    "target_scale": 6.378991
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.17539679998299107,
+    "target_scale": 6.378991
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.39856519998284057,
+    "target_scale": 6.378991
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4295896000112407,
+    "target_scale": 6.378991
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.15061850001802668,
+    "target_scale": 4.842084
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18061340000713244,
+    "target_scale": 4.842084
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.40468000003602356,
+    "target_scale": 4.842084
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4584690000046976,
+    "target_scale": 4.842084
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16246030002366751,
+    "target_scale": 5.487021
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.187661100004334,
+    "target_scale": 5.487021
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.43764149997150525,
+    "target_scale": 5.487021
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.5024630000116304,
+    "target_scale": 5.487021
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1925263000302948,
+    "target_scale": 4.757728
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.22037539997836575,
+    "target_scale": 4.757728
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4779291999875568,
+    "target_scale": 4.757728
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.49699539999710396,
+    "target_scale": 4.757728
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14865679998183623,
+    "target_scale": 4.923677
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16842709999764338,
+    "target_scale": 4.923677
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3768415999948047,
+    "target_scale": 4.923677
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4191598999896087,
+    "target_scale": 4.923677
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.154308500001207,
+    "target_scale": 5.487185
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16993219999130815,
+    "target_scale": 5.487185
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.38825610000640154,
+    "target_scale": 5.487185
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4333912000292912,
+    "target_scale": 5.487185
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1476871999911964,
+    "target_scale": 5.856526000000001
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1686174999922514,
+    "target_scale": 5.856526000000001
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3821371999802068,
+    "target_scale": 5.856526000000001
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.41152449999935925,
+    "target_scale": 5.856526000000001
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1399976999964565,
+    "target_scale": 4.4552320000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1693486999720335,
+    "target_scale": 4.4552320000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3677858999581076,
+    "target_scale": 4.4552320000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4121277999947779,
+    "target_scale": 4.4552320000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16074050002498552,
+    "target_scale": 5.0993575
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.17542210000101477,
+    "target_scale": 5.0993575
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.39791499997954816,
+    "target_scale": 5.0993575
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.42915879999054596,
+    "target_scale": 5.0993575
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16292700002668425,
+    "target_scale": 4.412951
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1904115999932401,
+    "target_scale": 4.412951
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4273204000201076,
+    "target_scale": 4.412951
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.49319570005172864,
+    "target_scale": 4.412951
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1434410999645479,
+    "target_scale": 5.4727665000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.16963810002198443,
+    "target_scale": 5.4727665000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.36797239998122677,
+    "target_scale": 5.4727665000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4279619000153616,
+    "target_scale": 5.4727665000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16390469996258616,
+    "target_scale": 6.1854545000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.1899266999680549,
+    "target_scale": 6.1854545000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4268271999899298,
+    "target_scale": 6.1854545000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.46587089996319264,
+    "target_scale": 6.1854545000000005
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.158819800009951,
+    "target_scale": 5.195782
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18006009998498484,
+    "target_scale": 5.195782
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.3883762000477873,
+    "target_scale": 5.195782
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.43411259999265894,
+    "target_scale": 5.195782
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.14749840000877157,
+    "target_scale": 4.8313485
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.17085269995732233,
+    "target_scale": 4.8313485
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.37240990001009777,
+    "target_scale": 4.8313485
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4190814000321552,
+    "target_scale": 4.8313485
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1609055000008084,
+    "target_scale": 4.665138499999999
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.17510420002508909,
+    "target_scale": 4.665138499999999
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.405786800023634,
+    "target_scale": 4.665138499999999
+  },
+  {
+    "train_cycles": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.42704239999875426,
+    "target_scale": 4.665138499999999
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16439989994978532,
+    "target_scale": 5.577905
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18466770002851263,
+    "target_scale": 5.577905
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4168885999824852,
+    "target_scale": 5.577905
+  },
+  {
+    "train_cycles": [
+      2014,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4563608000171371,
+    "target_scale": 5.577905
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.17050820001168177,
+    "target_scale": 5.415022
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18964839994441718,
+    "target_scale": 5.415022
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4373988999868743,
+    "target_scale": 5.415022
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.46647440001834184,
+    "target_scale": 5.415022
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.17421900003682822,
+    "target_scale": 5.235465
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.19759250001516193,
+    "target_scale": 5.235465
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4342761999578215,
+    "target_scale": 5.235465
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2018,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.48552400001790375,
+    "target_scale": 5.235465
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16508289997000247,
+    "target_scale": 4.959415
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.18862510001054034,
+    "target_scale": 4.959415
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4218492999789305,
+    "target_scale": 4.959415
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2019,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4675091999815777,
+    "target_scale": 4.959415
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1755243999650702,
+    "target_scale": 5.726356
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.19741319998865947,
+    "target_scale": 5.726356
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4313514999812469,
+    "target_scale": 5.726356
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2020,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.4688750000204891,
+    "target_scale": 5.726356
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.16690159996505827,
+    "target_scale": 5.4284925
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.19051300000865012,
+    "target_scale": 5.4284925
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4265548000112176,
+    "target_scale": 5.4284925
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.46155690000159666,
+    "target_scale": 5.4284925
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 0,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.1764648999669589,
+    "target_scale": 4.753453
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 1,
+    "config": {
+      "leaves": 7,
+      "trees": 200,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.20839669997803867,
+    "target_scale": 4.753453
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 2,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "raw"
+    },
+    "fit_seconds": 0.4520388999953866,
+    "target_scale": 4.753453
+  },
+  {
+    "train_cycles": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "candidate": 3,
+    "config": {
+      "leaves": 15,
+      "trees": 300,
+      "transform": "asinh"
+    },
+    "fit_seconds": 0.5055951999966055,
+    "target_scale": 4.753453
+  }
+]
